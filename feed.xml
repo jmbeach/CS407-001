@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS407-001 UA Fall 2016</title>
+    <description>A website for notes and study materials for CS407 offered at  The University of Alabama during Fall 2016.
+</description>
+    <link>http://jmbeach.github.io/CS407-001/</link>
+    <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Aug 2016 13:21:43 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2016 13:21:43 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 3 - Day 1</title>
+        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;ogCCYEVa88M&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;ch-3---guidelines-principles-and-theories&quot;&gt;CH 3 - Guidelines, principles, and theories&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:12.975700&lt;/li&gt;
+  &lt;li&gt;Guidelines&lt;/li&gt;
+  &lt;li&gt;Principles&lt;/li&gt;
+  &lt;li&gt;Theories&lt;/li&gt;
+  &lt;li&gt;Difference
+    &lt;ul&gt;
+      &lt;li&gt;Guidelines are low-level, practical designs, principles are more abstract, and theories are even more abstract that try to make the design process easier&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Benefit of guidelines
+    &lt;ul&gt;
+      &lt;li&gt;Standardization of interfaces&lt;/li&gt;
+      &lt;li&gt;Audio 0:03:45.145182&lt;/li&gt;
+      &lt;li&gt;Consistency&lt;/li&gt;
+      &lt;li&gt;Best practices
+        &lt;ul&gt;
+          &lt;li&gt;From practical experience&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Or from studies&lt;/li&gt;
+      &lt;li&gt;National Cancer Institute Guidelines
+        &lt;ul&gt;
+          &lt;li&gt;Audio 0:04:54.886882&lt;/li&gt;
+          &lt;li&gt;Use radio buttons for binary choices
+            &lt;ul&gt;
+              &lt;li&gt;Prevents the user from being able to make a mistake&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Use thumbnail images instead of larger images
+            &lt;ul&gt;
+              &lt;li&gt;Reduce page load time&lt;/li&gt;
+              &lt;li&gt;Low internet speeds&lt;/li&gt;
+              &lt;li&gt;Wasting time&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;1986 Principles
+        &lt;ul&gt;
+          &lt;li&gt;Consistent data display / memory load&lt;/li&gt;
+          &lt;li&gt;Audio 0:07:24.298561&lt;/li&gt;
+          &lt;li&gt;Getting users’ attention
+            &lt;ul&gt;
+              &lt;li&gt;Changing color to a non-standard one&lt;/li&gt;
+              &lt;li&gt;Size of elements&lt;/li&gt;
+              &lt;li&gt;Audio 0:09:08.934676&lt;/li&gt;
+              &lt;li&gt;Dangers
+                &lt;ul&gt;
+                  &lt;li&gt;Flashing at a certain rate can harm or distract users&lt;/li&gt;
+                  &lt;li&gt;You can clutter your interface&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Facilitating data entry
+            &lt;ul&gt;
+              &lt;li&gt;Audio 0:11:08.431975&lt;/li&gt;
+              &lt;li&gt;Don’t make user input long lines of text&lt;/li&gt;
+              &lt;li&gt;minimal input
+                &lt;ul&gt;
+                  &lt;li&gt;Reduce errors&lt;/li&gt;
+                  &lt;li&gt;Reduce data processing on the back end&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Consistency
+                &lt;ul&gt;
+                  &lt;li&gt;Don’t confuse the users&lt;/li&gt;
+                  &lt;li&gt;Audio 0:13:36.482119&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;minimal memory load
+                &lt;ul&gt;
+                  &lt;li&gt;Not making them remember too many things at once&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;compatibility entry/display&lt;/li&gt;
+              &lt;li&gt;flexibility&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;video&lt;/li&gt;
+  &lt;li&gt;Audio 0:18:12.039305&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LZy_WviXw2w&quot;&gt;HHS 508 Compliance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;personas&quot;&gt;Personas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:19.553955&lt;/li&gt;
+  &lt;li&gt;No single design will be useful to all users in all situations so we want to picture a user when we design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;factors&quot;&gt;Factors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:46.939491&lt;/li&gt;
+  &lt;li&gt;Age&lt;/li&gt;
+  &lt;li&gt;Experience&lt;/li&gt;
+  &lt;li&gt;Origin or ethnicity&lt;/li&gt;
+  &lt;li&gt;purpose for using software&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exercise&quot;&gt;Exercise&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:12.908985&lt;/li&gt;
+  &lt;li&gt;Tasks and personas&lt;/li&gt;
+  &lt;li&gt;Audio 0:28:20.233732&lt;/li&gt;
+  &lt;li&gt;Look at an interface you use frequently and think about the personas you might create&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;MyBama personas&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Inexperienced freshman
+    &lt;ul&gt;
+      &lt;li&gt;Register for classes&lt;/li&gt;
+      &lt;li&gt;View their schedule&lt;/li&gt;
+      &lt;li&gt;Find books&lt;/li&gt;
+      &lt;li&gt;Find housing&lt;/li&gt;
+      &lt;li&gt;Get a meal plan&lt;/li&gt;
+      &lt;li&gt;Get Bama bound orientation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Experienced senior&lt;/li&gt;
+  &lt;li&gt;Young Faculty&lt;/li&gt;
+  &lt;li&gt;Old faculty&lt;/li&gt;
+  &lt;li&gt;Old Students&lt;/li&gt;
+  &lt;li&gt;Foreign students&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Disabled students and faculty&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:33:12.875552&lt;/li&gt;
+  &lt;li&gt;Discussion&lt;/li&gt;
+  &lt;li&gt;Students
+    &lt;ul&gt;
+      &lt;li&gt;Existing&lt;/li&gt;
+      &lt;li&gt;Incoming&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Faculty&lt;/li&gt;
+  &lt;li&gt;Parents&lt;/li&gt;
+  &lt;li&gt;Visitors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tasks&quot;&gt;Tasks&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;user&lt;/td&gt;
+      &lt;td&gt;register&lt;/td&gt;
+      &lt;td&gt;schedule&lt;/td&gt;
+      &lt;td&gt;find books&lt;/td&gt;
+      &lt;td&gt;meal plans&lt;/td&gt;
+      &lt;td&gt;e-mail&lt;/td&gt;
+      &lt;td&gt;enter hours&lt;/td&gt;
+      &lt;td&gt;payments&lt;/td&gt;
+      &lt;td&gt;parking&lt;/td&gt;
+      &lt;td&gt;input grades&lt;/td&gt;
+      &lt;td&gt;set permissions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;student&lt;/td&gt;
+      &lt;td&gt;xx&lt;/td&gt;
+      &lt;td&gt;xxxx&lt;/td&gt;
+      &lt;td&gt;xx&lt;/td&gt;
+      &lt;td&gt;x&lt;/td&gt;
+      &lt;td&gt;xxxx&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;xx&lt;/td&gt;
+      &lt;td&gt;xx&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;faculty&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:56.912584&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;design-choices&quot;&gt;Design choices&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:43:54.701790&lt;/li&gt;
+  &lt;li&gt;When do you choose to implement a language vs a GUI?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;schneidermans-eight-golden-rules&quot;&gt;Schneiderman’s eight golden rules&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;see Vocab&lt;/li&gt;
+  &lt;li&gt;Audio 0:48:28.160320&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-to-design-interfaces-to-prevent-errors&quot;&gt;How to design interfaces to prevent errors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:49:05.030186&lt;/li&gt;
+  &lt;li&gt;Offer a tutorial&lt;/li&gt;
+  &lt;li&gt;Disable options that could cause you to cause an error or that aren’t currently an option&lt;/li&gt;
+  &lt;li&gt;Use standardized elements that they’ve seen before&lt;/li&gt;
+  &lt;li&gt;Reduce memory load&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;difference between guidelines, principles, and theories&lt;/td&gt;
+      &lt;td&gt;Guidelines are low-level, practical designs, principles are more abstract, and theories are even more abstract that try to make the design process easier&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;guidelines&lt;/td&gt;
+      &lt;td&gt;Make interfaces more consistent, are implemented from practical experience, and from studies&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;important guidelines&lt;/td&gt;
+      &lt;td&gt;consistent data display, reduce memory load, use appropriate methods of getting attention, and facilitate data entry&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;persona&lt;/td&gt;
+      &lt;td&gt;types of users you are designing for on a given project&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;factors of a persona&lt;/td&gt;
+      &lt;td&gt;age, experience, origin or ethnicity, purpose for using software&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;508 compliance&lt;/td&gt;
+      &lt;td&gt;means all users, regardless of disability status, can access technology&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8 golden rules&lt;/td&gt;
+      &lt;td&gt;prevent errors, universal usability, consistency, offer informative feedback, design dialogs to yield closure, keeping users in control, prevent short-term memory load, and reversible&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 30 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/08/30/week-3-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/30/week-3-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chapter 3 Discussion Questions</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Give a brief explanation of the Eight Golden Rules of Interface Design. State an example you have seen on a device, computer interface or web site that violates those rules.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Eight Golden Rules of Interface Design guide interface designers in creating consistent, universally usable, feedback-driven, error-handling, non-destructive, focused, and easy to understand  interfaces. An example of an interface which I have seen violate the Golden Rules is Facebook, which constantly re-arranges and reformats key components of the site and makes the user re-learn how to use it every time they visit.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Don Norman suggests organizing screens and menus functionally, designing commands and menu choices to be distinctive, and making it difficult for users to take irreversible actions. Norman also says to provide feedback about the state of the interface (e.g., changing the cursor to show whether a map interface is in zoom-in or select mode) and designing for consistency of actions (e.g., ensuring that Yes/No buttons are always displayed in the same order). State one example you have seen where you know these rules have been violated. Although this is crucial to a user interfaces success, suggest why there may be challenges to implement some of Norman’s guidelines.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The re-designed MyBama website hides the side menu when you shrink the browser window. However, there is no way to access the side-bar without resizing the window and there is nothing on the page to suggest you are in an altered state.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Clarify the difference among guidelines, principles and theories.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Guidelines are agreed-upon (either inside a group or organization or universally) standards which can speed up and improve the result of the development process by refining the goals of development. Principles are essentially guidelines which are treated as fact for the type of interface being designed. However, theories are explanation and interpretations of why or how design should work.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What are “accessibility guidelines”? Discuss progress from organization(s) that are taking the lead. State a few example guidelines.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Accessibility guidelines instruct how to make interfaces and content more accessible with an emphasis on users with disabilities. Major Operating System and software vendors are creating systems which are designed to be usable despite any physical ailments such as blindness or hearing loss. For example, text-to-speech and speech-to-text software is integrated in Mac OS and Windows OS and has been for many years. Accessibility guidelines from the Accessibility Programming Guide for iOS include making every user interface element in an app interactive via VoiceOver commands, making sure information is concise and helpful, and creating useful labels and hints (https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Making_Application_Accessible/Making_Application_Accessible.html#//apple_ref/doc/uid/TP40008785-CH102-SW5).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What is the difference between micro-HCI theories and macro-HCI theories?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Micro-HCI theories focus on the usability of existing technology and interfaces in order to make using interfaces more enjoyable. However, macro-hci theories focus on developing interfaces with change the feelings experienced by the user while using the interface.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/08/29/chapter-3-discussion-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/29/chapter-3-discussion-questions.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 2 - Day 2</title>
+        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;O9g4AOdYDJM&quot;});
+&lt;/script&gt;
+
+&lt;p&gt;Groups of users with special needs&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:31.239506&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elderly&quot;&gt;Elderly&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Larger buttons&lt;/li&gt;
+  &lt;li&gt;Less complicated&lt;/li&gt;
+  &lt;li&gt;Voice navigation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;visually-impaired&quot;&gt;Visually impaired&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:22.493553&lt;/li&gt;
+  &lt;li&gt;Voice controlled&lt;/li&gt;
+  &lt;li&gt;Increase fonts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;children&quot;&gt;Children&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:18.567887&lt;/li&gt;
+  &lt;li&gt;Security / parental control&lt;/li&gt;
+  &lt;li&gt;Simpler vocabulary&lt;/li&gt;
+  &lt;li&gt;animations
+    &lt;ul&gt;
+      &lt;li&gt;make it interesting for them&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Audio 0:03:59.025774&lt;/p&gt;
+
+&lt;h2 id=&quot;software-which-gives-you-errors&quot;&gt;Software which gives you errors&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pokemongo
+    &lt;ul&gt;
+      &lt;li&gt;Doesn’t tell you what to do when you can’t log in&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Music widgets
+    &lt;ul&gt;
+      &lt;li&gt;Two buttons that do similar things are pretty close to eachother&lt;/li&gt;
+      &lt;li&gt;Causes user error&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:06:11.867766&lt;/li&gt;
+  &lt;li&gt;The designers weren’t trying to make these problems, they probably just didn’t get the feedback
+    &lt;ul&gt;
+      &lt;li&gt;Need to think about what &lt;em&gt;can&lt;/em&gt; happen&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;variations-in-physical-ability-and-workspaces&quot;&gt;Variations in physical ability and workspaces&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:55.811915&lt;/li&gt;
+  &lt;li&gt;Ergonomics
+    &lt;ul&gt;
+      &lt;li&gt;Reduces physical stress&lt;/li&gt;
+      &lt;li&gt;Healthier way of doing everyday things&lt;/li&gt;
+      &lt;li&gt;Built specifically for the user&lt;/li&gt;
+      &lt;li&gt;“the study of people’s efficiency in their working environment.” - Google&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;kinds-of-variances&quot;&gt;Kinds of variances&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:35.605887&lt;/li&gt;
+  &lt;li&gt;Vision
+    &lt;ul&gt;
+      &lt;li&gt;low Vision&lt;/li&gt;
+      &lt;li&gt;color blind&lt;/li&gt;
+      &lt;li&gt;dyslexic&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hearing
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:11:26.969681&lt;/li&gt;
+      &lt;li&gt;impairment / deaf&lt;/li&gt;
+      &lt;li&gt;Might need visual or tactile alert&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Touch
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:12:07.802502&lt;/li&gt;
+      &lt;li&gt;Might have less ability to move&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cognitive-ability&quot;&gt;Cognitive ability&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:10.670064&lt;/li&gt;
+  &lt;li&gt;Memory
+    &lt;ul&gt;
+      &lt;li&gt;Retention of how to use the system&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:15:41.525945&lt;/li&gt;
+  &lt;li&gt;Experience
+    &lt;ul&gt;
+      &lt;li&gt;Having prior experience with similar software&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ability to learn&lt;/li&gt;
+  &lt;li&gt;Problem solving&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;personality&quot;&gt;Personality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:25.363990&lt;/li&gt;
+  &lt;li&gt;Certain personalities might get more frustrated&lt;/li&gt;
+  &lt;li&gt;Certain personalities might like to process information differently&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cultural-differences&quot;&gt;Cultural differences&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:55.596883&lt;/li&gt;
+  &lt;li&gt;Language
+    &lt;ul&gt;
+      &lt;li&gt;Is it easy to translate&lt;/li&gt;
+      &lt;li&gt;Knowing that a sentence means what you think it means
+        &lt;ul&gt;
+          &lt;li&gt;Not just translating the exact words&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Currencies
+        &lt;ul&gt;
+          &lt;li&gt;Decimal points, etc.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Dates and numbers&lt;/li&gt;
+      &lt;li&gt;icons
+        &lt;ul&gt;
+          &lt;li&gt;some things could be offensive&lt;/li&gt;
+          &lt;li&gt;Some icons don’t have the same meanings in other cultures&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 25 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/08/25/week-2-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/25/week-2-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 2 Questions</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Describe three populations of users with special needs. For each of these populations, suggest three ways current interfaces could be improved to better serve them.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Three populations of users with special needs which could need enhanced user interfaces are people who are hearing-impaired, sight-impaired, or movement-impaired. People with damaged or lack of hearing need interfaces which do not rely on that sense to function. Therefore, an interface which cues users with a ‘ding’ sound when an event takes place might consider pairing the noise with a blinking element on the screen or another visual way of getting one’s attention. For those with impaired or no vision, navigating and using the interface cannot rely on sight to function. Using an ATM as an example interface, interfaces could be improved through narrative prompts letting users know what actions are available to them and either brail atop the buttons which control those actions or verbal control of those actions. Movement-impaired individuals need interfaces which do not necessarily require them to move in order to interact with the system. For these users in the ATM example, audio control might be a way to allow them better access to the system without making them perform impossible or uncomfortable tasks.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Suppose you need to design a system for users in both the United States and Japan. Present a list of cultural differences that you should be aware of so that a successful design can be made.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One difference that a system in Japan would need as apposed to a system in the United States is that it would need to display text from right to left as opposed to left to right. Also, in Japan one’s title (such as Mr, CEO, Dr, etc.) means more than it does in the United States.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In certain interfaces, it is necessary to inform users of an abnormal condition or time-dependent information. It is important that the display of this information catches the user’s attention. Suggest five ways a designer can successfully attract attention.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Designers can attract attention through blinking, use of colors which are bold or different than the other colors on the screen, using different fonts than the standard font, size of font or elements on the screen, and use of audio.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Name a piece of software you often use where it is easy to produce an error. Explain ways you could improve the interface to better prevent errors.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pokémon Go gives errors all the time and sometimes does not work, but gives no error to tell you what to do. Most of the errors involve client-server communication issues and there might not be a simple fix for stopping the errors completely. However, the software should show a better explanation of the problem to the user and better instructions of what to do when you see the error. For example, if the problem is that the server is over-loaded, the app might show you the message “Could not log in.” Instead, it would be better if the software told you an understandable reason of why you could not log in such as “The server is down. Please wait before trying again,” so that the user does not attempt to log back in in vain.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List some human physiological or psychological factors that can influence human operator performance.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 25 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/08/25/ch-2-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/25/ch-2-questions.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 1 Questions</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Devise an outline, consistent with the scientific method, which interface researchers should follow to validate their designs.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Step one: Find a problem or domain which needs an interface.
+Step two: Research the problem by talking with and observing people working on that problem without the interface. Make an effort to see the parts of their work which your interface can make easier. Ask the people what they would like to see in an interface.
+Step three: Construct a theoretical interface and present it to the potential users of the interface. If the users find the interface unsatisfactory, re-construct it until an acceptable interface has been made.
+Step four: Develop the skeleton of the interface which works with fake data and see if the test users can use it intuitively or if they struggle to understand the interface. Make changes to the skeleton as necessary and represent it until the users are comfortable with the experience.
+Step five: Connect the user interface into the data to make a fully functional prototype of the final interface. Let users test the interface in this stage. Use this time to find flaws in the design that can be changed before the final release.
+Step six: Release the completed interface to the users.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List some characteristics of successful user interface designers with respect to their approach to solving UI problems&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Successful user interface designers are empathetic to the users of their products. They are not just thinking about the slickest or sexiest user interface they can design, but the one that is the least distracting and the most helpful in accomplishing the task at hand.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;As noted in the book, some skeptics feel that accommodating diversity requires dumbing-down or lowest-common-denominator strategies. However, the authors claim that in their experience, rethinking interface designs to accommodate these diversity situations will result in a better product for all users. Give an example of a product that meets the specific needs of a certain group of people, yet gives all users a better experience.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My Mac’s operating system has certain accessibility features which most users do not need to use. However the presence of some of these features, such as speaking the contents of the screen, are useful to everyone sometimes regardless of disability. For example, when trying to read a lot of dense information, sometimes I turn on the feature to speak what is on the screen and it makes my experience more enjoyable.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List several reasons why certain people resist using computers and suggest possible ways to you can alleviate these concerns.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A big reason I have seen people shy away from computers is for feeling ‘too stupid’ to use computers. In reality, the people feel stupid because of bad experiences from using complicated or even broken interfaces. When interfaces usability improves, people will stop resisting the use of computers in their work and start seeking them out.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Suggest three usability measures that can be directly used to produce a practical evaluation of a system. Keep the goals of efficiency and satisfaction in mind with these measures.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Usability measures that can be used to produce practical evaluation of a system include: Time required to learn the interface, the speed of the interface’s performance, and the amount of errors incurred by the user.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/08/21/ch-1-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/21/ch-1-questions.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 1 - Day 1</title>
+        <description>&lt;h1 id=&quot;course-objectives&quot;&gt;Course Objectives&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;At the end of the course the successful student will have the following:
+    &lt;ul&gt;
+      &lt;li&gt;Identify the major interactive styles for HCI&lt;/li&gt;
+      &lt;li&gt;Design and construct software using a variety of the major interaction styles&lt;/li&gt;
+      &lt;li&gt;Evaluate User Interaction Designs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Most people don’t think like us and we have to remember who we’re designing software for&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;instructor-expectations&quot;&gt;Instructor Expectations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Senior-level/graduate level course in computer science&lt;/li&gt;
+  &lt;li&gt;You can program&lt;/li&gt;
+  &lt;li&gt;You can find info on your own&lt;/li&gt;
+  &lt;li&gt;2-3 hours outside class for every hour of instruction&lt;/li&gt;
+  &lt;li&gt;You want to graduate&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/08/18/week-1-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/18/week-1-day-1.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
