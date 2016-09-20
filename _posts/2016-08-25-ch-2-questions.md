@@ -20,3 +20,5 @@ Designers can attract attention through blinking, use of colors which are bold o
 Pokémon Go gives errors all the time and sometimes does not work, but gives no error to tell you what to do. Most of the errors involve client-server communication issues and there might not be a simple fix for stopping the errors completely. However, the software should show a better explanation of the problem to the user and better instructions of what to do when you see the error. For example, if the problem is that the server is over-loaded, the app might show you the message "Could not log in." Instead, it would be better if the software told you an understandable reason of why you could not log in such as "The server is down. Please wait before trying again," so that the user does not attempt to log back in in vain.
 
 5. List some human physiological or psychological factors that can influence human operator performance.
+
+Being tired, frustrated, or confused lead to human errors.
