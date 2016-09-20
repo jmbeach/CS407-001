@@ -6,13 +6,145 @@
 </description>
     <link>http://jmbeach.github.io/CS407-001/</link>
     <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Sep 2016 09:33:45 -0500</pubDate>
-    <lastBuildDate>Tue, 20 Sep 2016 09:33:45 -0500</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2016 10:30:38 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 10:30:38 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Week 6 - Day 1</title>
-        <description>
+        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;baRqCbe8icI&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Error messages are always bad&lt;/li&gt;
+  &lt;li&gt;What design rule have we learned which should prevent vague error messages?
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:00:57.791883&lt;/li&gt;
+      &lt;li&gt;Prevent errors instead of displaying them&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;three-case-studies&quot;&gt;Three Case Studies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ATM case study&lt;/li&gt;
+  &lt;li&gt;Audio 0:02:23.040821
+    &lt;ul&gt;
+      &lt;li&gt;What jumped out at you?&lt;/li&gt;
+      &lt;li&gt;Iterative design&lt;/li&gt;
+      &lt;li&gt;Audio 0:04:29.375915&lt;/li&gt;
+      &lt;li&gt;You have to think about non-obvious use cases such as poor lighting&lt;/li&gt;
+      &lt;li&gt;Video taping responses to the system&lt;/li&gt;
+      &lt;li&gt;Eye-tracker
+        &lt;ul&gt;
+          &lt;li&gt;You get to see where the user’s attention is at all times
+            &lt;ul&gt;
+              &lt;li&gt;You could see if there’s something distracting&lt;/li&gt;
+              &lt;li&gt;You can see how long it takes for people to hone in on what they’re looking for&lt;/li&gt;
+              &lt;li&gt;Do the users look at the screen when they should look at the keypad (vice versa)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Other improvements
+        &lt;ul&gt;
+          &lt;li&gt;use-case testing
+            &lt;ul&gt;
+              &lt;li&gt;security issues&lt;/li&gt;
+              &lt;li&gt;line formed&lt;/li&gt;
+              &lt;li&gt;Audio 0:09:08.048261&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;video-discussion&quot;&gt;Video discussion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:05.371007&lt;/li&gt;
+  &lt;li&gt;Very rapid design &lt;a href=&quot;https://www.youtube.com/watch?v=szr0ezLyQHY&quot;&gt;Nordstrom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Agile development&lt;/li&gt;
+  &lt;li&gt;Very iterative design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;apple-design-question&quot;&gt;Apple design question&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:23.461046&lt;/li&gt;
+  &lt;li&gt;What guidelines make sense and which are less clear?
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;https://developer.apple.com/ios/human-interface-guidelines/&quot;&gt;apple guidelines&lt;/a&gt;&lt;/p&gt;
+
+        &lt;table&gt;
+          &lt;thead&gt;
+            &lt;tr&gt;
+              &lt;th style=&quot;text-align: left&quot;&gt;makes sense&lt;/th&gt;
+              &lt;th style=&quot;text-align: left&quot;&gt;don’t make sense&lt;/th&gt;
+            &lt;/tr&gt;
+          &lt;/thead&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td style=&quot;text-align: left&quot;&gt;clarity&lt;/td&gt;
+              &lt;td style=&quot;text-align: left&quot;&gt;deference&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td style=&quot;text-align: left&quot;&gt;consistency&lt;/td&gt;
+              &lt;td style=&quot;text-align: left&quot;&gt;user control&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:30:08.254667&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;data-driven-design&quot;&gt;Data-driven Design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:15.672038&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.teradata.com/Resources/Videos/Volvo-Cars-Fueling-innovation-with-Data-Analytics-and-the-Internet-of-Things/?LangType=1033&amp;amp;LangSelect=true&quot;&gt;volvo video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:41:34.442311&lt;/li&gt;
+  &lt;li&gt;Volvo takes advantage of big data to better design cars
+    &lt;ul&gt;
+      &lt;li&gt;Part failure statistics&lt;/li&gt;
+      &lt;li&gt;User customization choices&lt;/li&gt;
+      &lt;li&gt;cars interconnected&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Term&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;iterative design&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;design based on the most recent version of the design where changes and refinements are made&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;big data&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;using large data sets to make business decisions&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CS407-001/2016/09/20/week-6-day-1.html</link>
@@ -84,7 +216,20 @@
     
       <item>
         <title>Week 5 - Day 2</title>
-        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2j11i3&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;S48TwgvMW08&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Presentations review
