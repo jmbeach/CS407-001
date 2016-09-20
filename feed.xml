@@ -6,13 +6,567 @@
 </description>
     <link>http://jmbeach.github.io/CS407-001/</link>
     <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Aug 2016 13:21:43 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Aug 2016 13:21:43 -0500</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2016 09:33:45 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 09:33:45 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
+        <title>Week 6 - Day 1</title>
+        <description>
+</description>
+        <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/09/20/week-6-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/20/week-6-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 6 - Discussion Questions</title>
+        <description>&lt;p&gt;Consider additional requirements and technology to further complicate your analysis of an Automated Teller Machine (ATM) design:&lt;/p&gt;
+
+&lt;p&gt;Use eye-tracker data to further analyze the product&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Eye-tracker data could show us where users look first when they use the interface which would allow us to better place the key features they are looking for in the places they look first
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Consider accessibility (universal usability) issues such as lighting, physical placement of ATM, etc.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The ATM should be placed on ground level (not raised or lowered) so that users do not have to crane their posture up or down to interact with it. Also it should be in a well-lit environment so that users can correctly see the interface they are using. Furthermore the ATM should be placed in its own space, away from other things people want to use so that users are not crammed into a space and so that, if a queue of users forms to use it, they do not block the paths of others.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Consider user profile issues, e.g. is this the first time a user is using an ATM?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Perhaps to help new users, if more than a couple of user errors occur, the interface should begin to display non-intrusive help messages to guide them towards their goal.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Requirement to perform beta and/or market tests?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Positioning and lighting of the environment of the ATM could be tested in control groups to find the most preferred setup of the ATM by users.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Are there other stress factors such as a looming time deadline or a personal safety issue?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;One stress factor users might encounter is if they are using the ATM while a large queue has formed behind them or if they have waited a long time to use the ATM. The frustration of waiting a long time and the stress of wanting to use the ATM quickly so others can use the machine will cause the users to make more mistakes and have less pleasant experiences.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Review the iOS Human Interface Guidelines in the iOS Developer Library at: https://developer.apple.com/ios/human-interface-guidelines/&lt;/p&gt;
+
+&lt;p&gt;1) select one guideline that makes perfect sense and seems easy to incorporate into a design&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;In my opinion, clarity is the most logical of the guidelines. It is straight-forward to have a guideline which asks the developer to make things easier to read, see, and interact with.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;2) select another guideline that is much less clear requiring further explanation or analysis to incorporate into a design.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The deference guideline sounds much more abstract and harder to implement. For example, it asks the developer to make subjective improvements to the interface such as being &quot;beautiful&quot; and &quot;easy to understand.&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At present, the drive to use Big Data to define or enhance corporate strategies seems to be a global business trend. State an example of where this data can improve a business, focusing on user interface aspects.&lt;/p&gt;
+
+&lt;p&gt;One could examine big data such as user click positions, eye-tracking data, and so on from mass repositories and try to find trending key points where people look and click in order to find better places to position elements.&lt;/p&gt;
+
+&lt;p&gt;Cite a past experience where user interface development methods might apply to another system development activity that might not have a strong user interface component.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/09/20/ch-6-discussion-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/20/ch-6-discussion-questions.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 5 - Day 2</title>
+        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presentations review
+    &lt;ul&gt;
+      &lt;li&gt;Feedback on the homework
+        &lt;ul&gt;
+          &lt;li&gt;Makes you pay attention to things you already do&lt;/li&gt;
+          &lt;li&gt;Gives you better tools to critique the interfaces you use&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:02:01.342658&lt;/li&gt;
+  &lt;li&gt;Did it change the way you might design an interface
+    &lt;ul&gt;
+      &lt;li&gt;Yeah, knowing eight golden rules, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Experienced designers know that they don’t have all the answers
+    &lt;ul&gt;
+      &lt;li&gt;You need user input&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:05:23.445473&lt;/li&gt;
+  &lt;li&gt;You have to think about non-standard situations
+    &lt;ul&gt;
+      &lt;li&gt;unpredictable usage&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;expert-reviews-and-heuristics&quot;&gt;Expert Reviews and Heuristics&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kinds of reviews&lt;/li&gt;
+  &lt;li&gt;guideline review&lt;/li&gt;
+  &lt;li&gt;heuristic review&lt;/li&gt;
+  &lt;li&gt;Audio 0:08:30.995883&lt;/li&gt;
+  &lt;li&gt;cognitive walkthrough&lt;/li&gt;
+  &lt;li&gt;formal usability inspection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exercise&quot;&gt;Exercise&lt;/h2&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Google slides&lt;/li&gt;
+  &lt;li&gt;Advising appointment interface&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.usatoday.com/&quot;&gt;news site&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Intuitive to find the news I was looking for&lt;/li&gt;
+      &lt;li&gt;Inconsistent size of layout elements&lt;/li&gt;
+      &lt;li&gt;Advertisements auto-play and scroll with the page&lt;/li&gt;
+      &lt;li&gt;Audio 0:22:56.056939&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You have to be aware of competition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;think-aloud&quot;&gt;Think-aloud&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:47.500776&lt;/li&gt;
+  &lt;li&gt;Talking through an interface task as it is performed
+    &lt;ul&gt;
+      &lt;li&gt;Could potentially distract the user from completing the task&lt;/li&gt;
+      &lt;li&gt;not necessarily natural&lt;/li&gt;
+      &lt;li&gt;gives a better insight into how the user approaches the interface&lt;/li&gt;
+      &lt;li&gt;Audio 0:43:40.208723&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;paper-prototype&quot;&gt;Paper-prototype&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:48.676886&lt;/li&gt;
+  &lt;li&gt;People aren’t as hesitant to request changes to it&lt;/li&gt;
+  &lt;li&gt;Faster to build&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;survey-instruments&quot;&gt;Survey Instruments&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:48:28.430657&lt;/li&gt;
+  &lt;li&gt;what are things you need to think about when designing a survey?
+    &lt;ul&gt;
+      &lt;li&gt;Having good representative users&lt;/li&gt;
+      &lt;li&gt;Don’t bias your questions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acceptance-tests&quot;&gt;Acceptance tests&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can’t have subjective requirements
+    &lt;ul&gt;
+      &lt;li&gt;Can’t be “easy to use”&lt;/li&gt;
+      &lt;li&gt;Has to&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;heuristic evaluation&lt;/td&gt;
+      &lt;td&gt;expert review where an interface is checked for conformance with a short list of design heuristics (such as the Eight Golden Rules)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;guideline review&lt;/td&gt;
+      &lt;td&gt;expert review where interface is checked for conformance with the organizational or other guideline documents&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;consistency inspection&lt;/td&gt;
+      &lt;td&gt;expert review which checks if the interface has fonts, color schemes, layout, etc. compared to other common interfaces&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;formal usability inspection&lt;/td&gt;
+      &lt;td&gt;expert review styled like a courtroom meeting in which the interface is presented to discuss its merits or weaknesses&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;cognitive walkthrough&lt;/td&gt;
+      &lt;td&gt;expert review in which the expert simulates walking through the interface and performing typical tasks&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sight tracking&lt;/td&gt;
+      &lt;td&gt;method for observing how users progress through an interface and what catches their attention&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;think-aloud&lt;/td&gt;
+      &lt;td&gt;talking out loud while a user performs a task to understand their thought-process&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bad requirement&lt;/td&gt;
+      &lt;td&gt;A subjective requirement such as “needs to be easy to use”&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/09/15/week-5-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/15/week-5-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chapter 5 Questions</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Describe at least three different types of expert review methods.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Heuristic evaluation is where experts review an interface and decide whether or not it conforms to well-established rules, such as the Eight Golden Rules. Guidelines review is where the interface is reviewed in order to see if it conforms to the guidelines established by the organization. Consistency inspection is when the interface is compared to other interfaces in order to check for consistent fonts, formats, schemes, and other details.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Compare and contrast controlled psychological experiments and usability tests in the evaluation process of user interfaces. Be sure to include the benefits and limitations of each.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In a psychological experiment, the method of testing the interface is more empirical: one gathers evidence for or against the usability of the interface through surveys and other techniques. However, it is harder to use psychological experiments because you have to find very specific things about the interface to test and a sample of users who match the demographic of users who will see the interface. In a usability test, however, the tests are more subjective. One can ask the user, “Did you enjoy using the interface,” for example. However, usability tests are less empirical.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Give two reasons why expert reviews are useful. Also give two limitations of expert reviews.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Expert reviews are useful because usability experts are trained to know exactly what to look for in an interface and how to find it quickly to make sure it is high quality. One limitation of expert reviews is that the expert might not fully understand the scope of the project and might not give advice geared towards the actual desired functionality. Also, the expert might not be familiar with the user group who is intended to use the product and might make suggestions which are irrelevant to them.&lt;/p&gt;
+
+&lt;p&gt;For questions 5-7, refer to the following instructions:&lt;/p&gt;
+
+&lt;p&gt;One argument against the current interface design of a popular word processor is that it has all the functional menu items appearing together which cause the interface to be too complex. This complexity results in a confusing and frustrating experience for novice users. An alternative design is to provide different levels of functional complexity, so users can choose the level that is suitable for them, then advance to higher level as they get familiar with the tool, thus feel more comfortable and learn more efficiently. You are asked to conduct usability testing to compare these two designs.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Which type of usability testing should be used for this situation? Explain why.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Competitive usability testing should be use to compare the new version of the interface which allows you to move up to higher levels of complexity to the old interface which does not. This would allow for a good side-by-side comparison of the usability of each version.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List some general principles of subject selection in usability testing. How should you select subjects for this case?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It would make sense to pick a group of familiar users and a group of unfamiliar users and find how they feel about hiding parts of the interface. One reason for this is that the advanced users might be unhappy that the features they like to use are hidden. Also, it is important to see if the unfamiliar users wish that they could see some of the more advanced features.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List and briefly describe the steps in the usability testing you would conduct.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I would create a survey of possible problems or benefits the users might find and ask them to rate how they believe the product stacks up. For example, if they thought there was not enough buttons on the page, there would be a spot for them to mark that they were dissatisfied with the number of buttons on the page.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/09/15/chapter-5-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/15/chapter-5-questions.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 3 - Day 2</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2gec5x&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;_DlpPtIOMA4&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You need to submit an idea or the fact that you don’t have an idea by tomorrow night to blackboard&lt;/li&gt;
+  &lt;li&gt;Audio 0:01:36.512224&lt;/li&gt;
+  &lt;li&gt;Someone did a robot with a face that changes when you tell it things (mood)&lt;/li&gt;
+  &lt;li&gt;People have made apps of things around campus&lt;/li&gt;
+  &lt;li&gt;Audio 0:02:50.978653&lt;/li&gt;
+  &lt;li&gt;For class next week, if not many people have ideas, we’ll use class to figure out the project idea&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;intro-to-design&quot;&gt;Intro to Design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:25.364576&lt;/li&gt;
+  &lt;li&gt;More high level&lt;/li&gt;
+  &lt;li&gt;Today is design process in general&lt;/li&gt;
+  &lt;li&gt;Later will be how do you evaluate design&lt;/li&gt;
+  &lt;li&gt;Audio 0:05:37.283149&lt;/li&gt;
+  &lt;li&gt;Every time you make a digital artifact, you are making decisions and thus designing
+    &lt;ul&gt;
+      &lt;li&gt;Even though it might not feel like designing&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:06:46.009063&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en&quot;&gt;Three ways that good design makes you happy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:20:14.374219&lt;/li&gt;
+  &lt;li&gt;What are things that stood out in the video?
+    &lt;ul&gt;
+      &lt;li&gt;Comfortable
+        &lt;ul&gt;
+          &lt;li&gt;Happy, think creatively&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;uncomfortable
+        &lt;ul&gt;
+          &lt;li&gt;Focused, but un-creative&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:25:38.879283&lt;/li&gt;
+  &lt;li&gt;If software isn’t fun and easy to use, people will use an alternative&lt;/li&gt;
+  &lt;li&gt;Audio 0:26:18.045601&lt;/li&gt;
+  &lt;li&gt;“Design is a process and not a state”
+    &lt;ul&gt;
+      &lt;li&gt;Meaning
+        &lt;ul&gt;
+          &lt;li&gt;It’s dynamic and not step by step
+            &lt;ol&gt;
+              &lt;li&gt;Requirements&lt;/li&gt;
+            &lt;/ol&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Audio 0:28:31.977102&lt;/li&gt;
+          &lt;li&gt;Use case
+            &lt;ul&gt;
+              &lt;li&gt;description of how a particular user will interact with the system to accomplish a particular task&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;The process of collecting use cases (Anything not a use case should not be in the system)
+            &lt;ol&gt;
+              &lt;li&gt;Design&lt;/li&gt;
+            &lt;/ol&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Audio 0:30:40.662594&lt;/li&gt;
+          &lt;li&gt;Try to develop a mental model consistent with the mental model the user should have to use and understand the system
+            &lt;ol&gt;
+              &lt;li&gt;Implement&lt;/li&gt;
+              &lt;li&gt;Evaluate&lt;/li&gt;
+            &lt;/ol&gt;
+          &lt;/li&gt;
+          &lt;li&gt;You might do these steps 100 times&lt;/li&gt;
+          &lt;li&gt;Audio 0:32:25.643012&lt;/li&gt;
+          &lt;li&gt;How do you measure “goodness” of the interface
+            &lt;ul&gt;
+              &lt;li&gt;Time to learn, error-rate, etc&lt;/li&gt;
+              &lt;li&gt;Surveys&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;user-centered-design&quot;&gt;User-centered design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:54.615972&lt;/li&gt;
+  &lt;li&gt;user-centered design vs participatory design
+    &lt;ul&gt;
+      &lt;li&gt;user-centered design makes sure you get input from the users while designing while participatory design has users involved in the actual design process&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:36:45.033722&lt;/li&gt;
+  &lt;li&gt;video&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ovj4hFxko7c&quot;&gt;What the $@%^ is UX?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:42:40.819544&lt;/li&gt;
+  &lt;li&gt;You have to balance what the users want and what you can deliver&lt;/li&gt;
+  &lt;li&gt;You don’t have to be artistic to design interfaces
+    &lt;ul&gt;
+      &lt;li&gt;It’s not art, it’s a science&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;participatory-design&quot;&gt;Participatory design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:45:07.380258&lt;/li&gt;
+  &lt;li&gt;video&lt;/li&gt;
+  &lt;li&gt;Audio 0:50:54.256935&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;Audio 0:50:54.256935&quot;&gt;Participatory design techniques&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Gets the users to think creatively&lt;/li&gt;
+      &lt;li&gt;Looks like participatory design would take longer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;focus-group&quot;&gt;Focus Group&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:55:54.310256&lt;/li&gt;
+  &lt;li&gt;Interview is like 1 on one, focus group is like a group interview&lt;/li&gt;
+  &lt;li&gt;Audio 0:57:12.044040&lt;/li&gt;
+  &lt;li&gt;Ethnographic interpretations
+    &lt;ul&gt;
+      &lt;li&gt;Sends designers into the field where the interface is being used&lt;/li&gt;
+      &lt;li&gt;Become part of the culture&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;scenario-development&quot;&gt;Scenario development&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Examines how might people use my system?&lt;/li&gt;
+  &lt;li&gt;Audio 1:00:11.662222&lt;/li&gt;
+  &lt;li&gt;Example - basalmic is a wire frame tool for drawing interface designs
+    &lt;ul&gt;
+      &lt;li&gt;Medium fidelity design&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;How do pleasant things work better?&lt;/td&gt;
+      &lt;td&gt;Being anxious and frightened makes you think “depth-first” and focused, but fun things allow you to relax and think outside of the box&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Design phases&lt;/td&gt;
+      &lt;td&gt;requirements, design, implementation, and evaluation&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;requirements phase&lt;/td&gt;
+      &lt;td&gt;The process of collecting use cases (Anything not a use case should not be in the system)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;use case&lt;/td&gt;
+      &lt;td&gt;description of how a particular user will interact with the system to accomplish a particular task&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;design phase&lt;/td&gt;
+      &lt;td&gt;Tries to develop a mental model consistent with the mental model the user should have to use and understand the system&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;user-centered design&lt;/td&gt;
+      &lt;td&gt;makes sure you get input from the users while designing&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;participatory design&lt;/td&gt;
+      &lt;td&gt;has users involved in the actual design process&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ethnographic interpretations&lt;/td&gt;
+      &lt;td&gt;becoming part of the culture using the product in order to design it better&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;scenario development&lt;/td&gt;
+      &lt;td&gt;examines how people might use your product&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/09/01/week-3-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/01/week-3-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 4 Discussion Questions</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;You are the new Chief Design Officer (CDO) of a new start-up, DTUI Inc. The project is to design a system for hospitals that will allow receptionists to check in people at the hospital faster. They wish to develop an interface that meets both the receptionist and patient’s needs. Describe in detail a design methodology of 4 stages to facilitate proper design of such a system.
+Write your answer in the form of a management plan for this project. For each stage, indicate the number of weeks that should be allocated. Hint: note the four phases of the design process:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Requirements analysis
+Preliminary (conceptual) and detailed design
+Build and implementation
+Evaluation&lt;/p&gt;
+
+&lt;p&gt;During the requirements analysis stage of this project, I would interview patients and receptionists and try to find what they believe would get them into the hospital faster and most conveniently. Also, I would observe and analyze patients checking in to the hospital as well as receptionists guiding the check in in order to try to find flaws and trouble they might not have identified themselves. During the preliminary and detailed design stage, my team would compose diagrams and conceptualizations of our chosen solution to the problem. In the build and implementation phase, we would begin the implementation of our chosen solution. Lastly, we would determine the effectiveness of our solution in the evaluation phase.&lt;/p&gt;
+
+&lt;p&gt;The State of Maryland is developing a web-voting interface. For selecting the candidates, one design (RB) is a set of radio buttons and another is (CB) a combo-box (drops down when selecting the scroll arrow icon), both using standard fonts at 10-point size.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Compare these two designs when there are 4 candidates and predict the relative speed of performance and error rates. Support your choice by a thoughtful argument.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In a race with only four candidates, the radio button group greatly outperforms the combo-box because it is easier to see the choices and it is more clear which selection you have made. A combo-box is a better fit for many selections to where you would need to scroll to find the candidate you were looking for. If you used a combo-box in this example, it might make the users think that there were supposed to be many candidates to choose from, but only four are listed.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;An expert reviewer complains that both designs may work with young users who are familiar and expert in using a mouse, but that there will be problems for elderly and motor-impaired users who have difficulty controlling a mouse. The reviewer recommends a new design that includes a larger font (20-point size) and a numbered list to allow selection by keyboard easily. Describe a Participatory Design or Social Impact Statement process that might clarify this issue with elderly users.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A social impact statement process might look like the company announcing through social media that they have decided to re-design their voting interface with the elderly in mind.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Design an experiment to help resolve the issue brought up in Question 3. Assume you have substantial resources and access to subjects.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To test the expert reviewer’s hypothesis that elderly and motor-impaired users would prefer larger font and a numbered keyboard selection, a simulation could be held with an elderly individual with those changes implemented to see if they have an easier time navigating the interface.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Provide a definition of participatory design. Give three arguments for and three arguments against participatory design.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Participatory design is part of the design process which aims at involving everyone who will be affected by the final product being developed. For example, if you are developing a product for people at a steel plant, you would get the operators involved in the design process.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Consider a system that dos not yet exist. An example is a totally automated fast-food restaurant, where customers order via touch screen interactions, pay by swiping their debit or credit cards, and then pick up their food–analogous to the self-check-out at some supermarkets, but even more extreme. Discuss how you conduct a contextual inquiry for a system that does not yet exist.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You would have to make a believable simulation of the restaurant for interviewees to experience. For example, in the interview room, you could have the users buy a cheese burger by interacting with a dumbed-down touch screen (which they might even have to imagine works) and then give them the cheese burger when they have completed the checkout process. Then, you could interview them and get their thoughts and feelings on the process.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/09/01/ch-4-discussion-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/01/ch-4-discussion-questions.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Week 3 - Day 1</title>
-        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2gecmc&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
 	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
 	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -533,86 +1087,12 @@
 &lt;ol&gt;
   &lt;li&gt;List some human physiological or psychological factors that can influence human operator performance.&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;Being tired, frustrated, or confused lead to human errors.&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Aug 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CS407-001/2016/08/25/ch-2-questions.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/25/ch-2-questions.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ch 1 Questions</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;Devise an outline, consistent with the scientific method, which interface researchers should follow to validate their designs.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Step one: Find a problem or domain which needs an interface.
-Step two: Research the problem by talking with and observing people working on that problem without the interface. Make an effort to see the parts of their work which your interface can make easier. Ask the people what they would like to see in an interface.
-Step three: Construct a theoretical interface and present it to the potential users of the interface. If the users find the interface unsatisfactory, re-construct it until an acceptable interface has been made.
-Step four: Develop the skeleton of the interface which works with fake data and see if the test users can use it intuitively or if they struggle to understand the interface. Make changes to the skeleton as necessary and represent it until the users are comfortable with the experience.
-Step five: Connect the user interface into the data to make a fully functional prototype of the final interface. Let users test the interface in this stage. Use this time to find flaws in the design that can be changed before the final release.
-Step six: Release the completed interface to the users.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;List some characteristics of successful user interface designers with respect to their approach to solving UI problems&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Successful user interface designers are empathetic to the users of their products. They are not just thinking about the slickest or sexiest user interface they can design, but the one that is the least distracting and the most helpful in accomplishing the task at hand.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;As noted in the book, some skeptics feel that accommodating diversity requires dumbing-down or lowest-common-denominator strategies. However, the authors claim that in their experience, rethinking interface designs to accommodate these diversity situations will result in a better product for all users. Give an example of a product that meets the specific needs of a certain group of people, yet gives all users a better experience.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;My Mac’s operating system has certain accessibility features which most users do not need to use. However the presence of some of these features, such as speaking the contents of the screen, are useful to everyone sometimes regardless of disability. For example, when trying to read a lot of dense information, sometimes I turn on the feature to speak what is on the screen and it makes my experience more enjoyable.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;List several reasons why certain people resist using computers and suggest possible ways to you can alleviate these concerns.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A big reason I have seen people shy away from computers is for feeling ‘too stupid’ to use computers. In reality, the people feel stupid because of bad experiences from using complicated or even broken interfaces. When interfaces usability improves, people will stop resisting the use of computers in their work and start seeking them out.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Suggest three usability measures that can be directly used to produce a practical evaluation of a system. Keep the goals of efficiency and satisfaction in mind with these measures.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Usability measures that can be used to produce practical evaluation of a system include: Time required to learn the interface, the speed of the interface’s performance, and the amount of errors incurred by the user.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/08/21/ch-1-questions.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/21/ch-1-questions.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 1 - Day 1</title>
-        <description>&lt;h1 id=&quot;course-objectives&quot;&gt;Course Objectives&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;At the end of the course the successful student will have the following:
-    &lt;ul&gt;
-      &lt;li&gt;Identify the major interactive styles for HCI&lt;/li&gt;
-      &lt;li&gt;Design and construct software using a variety of the major interaction styles&lt;/li&gt;
-      &lt;li&gt;Evaluate User Interaction Designs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Most people don’t think like us and we have to remember who we’re designing software for&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;instructor-expectations&quot;&gt;Instructor Expectations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Senior-level/graduate level course in computer science&lt;/li&gt;
-  &lt;li&gt;You can program&lt;/li&gt;
-  &lt;li&gt;You can find info on your own&lt;/li&gt;
-  &lt;li&gt;2-3 hours outside class for every hour of instruction&lt;/li&gt;
-  &lt;li&gt;You want to graduate&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 18 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/08/18/week-1-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/18/week-1-day-1.html</guid>
         
         
       </item>
