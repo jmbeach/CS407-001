@@ -6,9 +6,436 @@
 </description>
     <link>http://jmbeach.github.io/CS407-001/</link>
     <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Sep 2016 10:26:45 -0500</pubDate>
-    <lastBuildDate>Thu, 22 Sep 2016 10:26:45 -0500</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2016 10:30:38 -0500</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 10:30:38 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 8 - Day 2 (Chapter 9)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2lwqvy&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;kxlnRyGpG2s&quot;});
+&lt;/script&gt;
+
+&lt;p&gt;Audio 0:00:40.105677&lt;/p&gt;
+
+&lt;h1 id=&quot;part-c-of-project&quot;&gt;Part C of Project&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submit it October 12th at midnight&lt;/li&gt;
+  &lt;li&gt;By October 13, before class, we need everything prepared.
+    &lt;ul&gt;
+      &lt;li&gt;Have to come to class with lo-fi prototype&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:06:31.739881&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;when-would-you-use-voice-recognition&quot;&gt;When would you use voice recognition&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;beneficial&lt;/th&gt;
+      &lt;th&gt;poor&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;driving / hands occupied&lt;/td&gt;
+      &lt;td&gt;when you’re in public&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;easy&lt;/td&gt;
+      &lt;td&gt;when the search is complicated&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;no mouse / keyboard&lt;/td&gt;
+      &lt;td&gt;names&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3xIO7Luhaps&quot;&gt;Is voice recognition replacing typing?&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:24.722999&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;obstacles-of-speech-recognition&quot;&gt;Obstacles of Speech recognition&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:54.759599&lt;/li&gt;
+  &lt;li&gt;Noisy environments&lt;/li&gt;
+  &lt;li&gt;Poor quality microphone&lt;/li&gt;
+  &lt;li&gt;Different accents and dialects&lt;/li&gt;
+  &lt;li&gt;Learn commands&lt;/li&gt;
+  &lt;li&gt;error correction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;obstacles-of-speech-production&quot;&gt;Obstacles of Speech Production&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:59.605676&lt;/li&gt;
+  &lt;li&gt;privacy&lt;/li&gt;
+  &lt;li&gt;pace of speech&lt;/li&gt;
+  &lt;li&gt;pronunciation&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;short-lived&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:28:52.281136&lt;/li&gt;
+  &lt;li&gt;NaturallySpeaking video&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3vuWirlt7Rw&quot;&gt;Nuance Dragon Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;speech-synthesis-types&quot;&gt;Speech Synthesis Types&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:41.814216&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;format synthesis&lt;/th&gt;
+      &lt;th&gt;concatenated synthesis&lt;/th&gt;
+      &lt;th&gt;canned&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;screen reader&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Morgan Freeman Birmingham Airport&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:48.061467
+&lt;a href=&quot;https://www.youtube.com/watch?v=IOw4kVrymFs&quot;&gt;Stanford experiment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;when-is-command-language-faster-than-gui&quot;&gt;When is command language faster than GUI?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For expert users&lt;/li&gt;
+  &lt;li&gt;Programming&lt;/li&gt;
+  &lt;li&gt;Complicated data&lt;/li&gt;
+  &lt;li&gt;Audio 0:50:38.424237&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;term&lt;/th&gt;
+      &lt;th&gt;definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;good scenarios for voice assistants&lt;/td&gt;
+      &lt;td&gt;driving, hands occupied, the voice command is simple, entertainment, poor lighting&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bad scenarios for voice assistants&lt;/td&gt;
+      &lt;td&gt;when you’re in public, when it’s noisy, the search is complicated, you need to give it names&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;obstacles of speech recognition&lt;/td&gt;
+      &lt;td&gt;noisy environments, poor quality microphones, accents, dialects, learning commands, error correction&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;obstacles to speech production&lt;/td&gt;
+      &lt;td&gt;privacy, pace of speech, pronunciation, short-lived&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;format synthesis&lt;/td&gt;
+      &lt;td&gt;speech generated using algorithms&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;concatenated synthesis&lt;/td&gt;
+      &lt;td&gt;created using speech fragments (pasted together)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;canned speech&lt;/td&gt;
+      &lt;td&gt;speech that has been pre-recorded&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;when is command language better than a GUI?&lt;/td&gt;
+      &lt;td&gt;For expert users, programming, or inputting complicated data&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Thu, 06 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/06/week-8-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/06/week-8-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 9 - Discussion</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Consider voice-activated digital assistants such as Siri, Cortana or Google Talk. Identify a situation or scenario where you chose to use this personal assistant, and identify a scenario where you chose to avoid it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I would find Siri, Cortana, and Google Talk useful when my hands are tied or when the alternative input is not effective (like touch screen typing). However, I would not want to use these tools when I am in a noisy area or when I have a keyboard and mouse in front of me.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;As a follow-on to the previous question, produce a thoughtful argument about what role spoken interaction should have in user interfaces. Be sure to list at least three benefits and limitations of spoken interaction.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Spoken interaction is effective when the user has visual or motor impairments because they can interact with their device without looking at it or touching it. It is also useful for people who need to use their hands to drive a car or have their hands full. Furthermore, it is useful when the user is fatigued and wants to use an input method that is more natural and takes less thought. However, spoken interaction is hard to use in a noisy environment. It can also lead to anger when it misunderstands the user. Furthermore, it can be slower than typed input.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Some designers suggest that speech recognition should be used in a telephone menu system. This would allow users to interact with the system by speaking instead of pressing buttons on the dial pad. Give two arguments for and two arguments against the proposal.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A speech recognition menu would allow users to not have to type complicated information. Also it would allow them to input information without having to look at their phone and potentially miss spoken information. However, if the speech recognition software fails to accurately interpret speech then the user could become  distressed and reduce the quality of the call or accidentally give the system incorrect information.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Define when “speech production” is successful and discuss methods for its implementation. Cite examples.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Speech production is successful when the users understand it and interact with it naturally such as when using the Subway and receiving instructional information over intercom or when taking a tour with a robot tour guide.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;There exist applications of human language understanding technology. Name some examples.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;List several situations when command languages can be attractive for users.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Similar to my previous responses, command languages are most attractive when using your hands is impossible or inconvenient. Also, it is effective when users are motor or vision impaired. It is also attractive when it functions naturally so that the user feels they are simply talking to a person.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/05/ch-9-discussion.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/05/ch-9-discussion.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 8 - Day 1 (Chapter 8 - Fluid Navigation)</title>
+        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;E0Fh3LN1k1g&quot;});
+&lt;/script&gt;
+
+&lt;h2 id=&quot;websites&quot;&gt;Websites&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:25.679338&lt;/li&gt;
+  &lt;li&gt;Cool features don’t make your app easier to use&lt;/li&gt;
+  &lt;li&gt;When do you apply certain features
+    &lt;ul&gt;
+      &lt;li&gt;Simpler is sometimes better&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examples-when-filling-in-forms-and-using-menus-is-easier-than-direct-manipulation&quot;&gt;Examples when filling in forms and using menus is easier than direct-manipulation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:31.320854&lt;/li&gt;
+  &lt;li&gt;When you have a lot of specific kinds of data&lt;/li&gt;
+  &lt;li&gt;Searching is better with an input box&lt;/li&gt;
+  &lt;li&gt;When you need high precision&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-can-we-allow-users-to-select-things&quot;&gt;How can we allow users to select things&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:05.312498&lt;/li&gt;
+  &lt;li&gt;Binary menus&lt;/li&gt;
+  &lt;li&gt;Radio buttons&lt;/li&gt;
+  &lt;li&gt;Check boxes&lt;/li&gt;
+  &lt;li&gt;Trees&lt;/li&gt;
+  &lt;li&gt;Sliders
+    &lt;ul&gt;
+      &lt;li&gt;Range of input&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pull-down menus / combo-box&lt;/li&gt;
+  &lt;li&gt;palettes&lt;/li&gt;
+  &lt;li&gt;ribbons
+    &lt;ul&gt;
+      &lt;li&gt;Allows for context specific actions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;shortcuts&lt;/li&gt;
+  &lt;li&gt;gestures
+    &lt;ul&gt;
+      &lt;li&gt;size of screen matters&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;considerations-for-smaller-screens&quot;&gt;Considerations for smaller screens&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:13.823219&lt;/li&gt;
+  &lt;li&gt;Data Entry
+    &lt;ul&gt;
+      &lt;li&gt;Don’t make things too small&lt;/li&gt;
+      &lt;li&gt;Easier to overload the user&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Font size&lt;/li&gt;
+  &lt;li&gt;Layout&lt;/li&gt;
+  &lt;li&gt;Interruptions
+    &lt;ul&gt;
+      &lt;li&gt;User can get a text or a call in the middle of working through a form&lt;/li&gt;
+      &lt;li&gt;Need to save state&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:23:28.918312
+&lt;a href=&quot;https://www.youtube.com/watch?v=0sU2Vv7twmc&quot;&gt;Apple Watch navigation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;webby-awards&quot;&gt;Webby Awards&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:48.651847&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webbyawards.com/winners/2016/&quot;&gt;See website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hilariously hard to navigate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;audio-menus&quot;&gt;Audio Menus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:51:29.693806&lt;/li&gt;
+  &lt;li&gt;You can’t have to many submenus&lt;/li&gt;
+  &lt;li&gt;It’s not visible
+    &lt;ul&gt;
+      &lt;li&gt;You don’t know if your option is even there&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;filling-out-forms&quot;&gt;Filling out forms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:55:43.507105&lt;/li&gt;
+  &lt;li&gt;If you fill out a field incorrectly, it might highlight it
+    &lt;ul&gt;
+      &lt;li&gt;Does it happen immediately or after submit, etc&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;E-mail for closure&lt;/li&gt;
+  &lt;li&gt;Modal vs non-modal forms
+    &lt;ul&gt;
+      &lt;li&gt;modal won’t let you do anything until you’ve interacted with it.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;inputs for selecting&lt;/td&gt;
+      &lt;td&gt;binary menus, radio buttons, check boxes, trees, pull-down menus, palettes, ribbons, shortcuts, gestures&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;when filling in forms might be easier than direct-manipulation&lt;/td&gt;
+      &lt;td&gt;when there is a lot of data or when you need high precision&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;considerations for smaller screens&lt;/td&gt;
+      &lt;td&gt;data entry, font size, layout, interruptions&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/04/week-8-day-1-chapter-8-fluid-navigation.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/04/week-8-day-1-chapter-8-fluid-navigation.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 8 Discussion Questions</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;A telephone-based menu system is being designed for a magazine subscription service system. There are seven magazines available: National Geographic, Travel and Leisure, Entrepreneur, Time, Golf, US News and World Report, and Fortune. Describe three reasonable orderings of the voice menus and justify each.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One reasonable ordering would be to order them alphabetically: Entrepreneur, Fortune, Golf, Leisure, National Geographic, Time, Travel and Leisure, and US News and World Report. Alphabetic ordering is preferable because the user is aware of it and can predict how long it will take to get to their desired magazine. Another reasonable ordering would be to order the magazines by popularity. This way, the user is more likely to hear the magazine they like first. Another reasonable ordering would be to order the listings by price. Therefore, special or lower prices are listed first to get the caller to be more likely to make a purchase.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Provide three examples of an application where menu selection and form fill-in are more appropriate than a direct-manipulation strategy.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Form fill in is always more appropriate when filling in personal information such as name or social security because of the sensitivity and the lack of an analogy that mimics the input. Also, when choosing information from a small organized list, it is always easier to select that information from a menu. Furthermore, it is more appropriate when screen real-estate is small.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Design a touch screen music jukebox, which allows the user to select from a menu of the five most popular songs of the week. Draw a sketch of this interface for each of the following menu types: Binary Menu, Multiple-Item menu, Check boxes, Pull-down Menus. Argue which design serves the user best.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(See attached)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You are in charge of designing a menu tree for navigating 1,250 books in a digital library. Present an argument of whether the menu should have larger depth (number of levels) or breadth (number of items per level).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The tree should have larger breadth so that the list is broken up as much as possible. For example, the books should be split up by genre in the first level, then another sub category in the second to make it much easier to sort through the lowest level.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Frequent menu users can become annoyed if they must make several menu selections to complete a simple task. Suggest two ways you can refine the menu approach to accommodate expert or frequent users.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One way to refine the menu approach is to provide hotkeys for frequently accessed menu items. Another way would be to allow advanced users to customize a quick access bar to allow them to quickly access a more frequently used item.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;When users are navigating through a menu structure, they may become disoriented. The authors suggest techniques to help alleviate this disorientation such as indicating the current position in the menu. Draw a sketch of how you can show users their position for an on-line car showroom, assuming the user has browsed with the following path:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Main Menu -&amp;gt; Mid-size Cars -&amp;gt; Honda -&amp;gt; Accord&lt;/p&gt;
+
+&lt;p&gt;(See attached)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What are some design considerations for fluid navigation of small-screen displays, e.g. Smartphone or even smart watch screens?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There is less screen space to show the amount you have navigated so it is better to give the user a gestural navigation approach to let them swipe in and out of levels.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Critique the design of the dialog box below in the text. This dialog box is used to alert clinicians who try to prescribe the drug Warfarin, because it increases the risk of bleeding in patients already on Aspirin.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One problem I have with the buttons is that the buttons do not easily describe what they do. I think the buttons should say “Keep Only Asprin” or “Keep Only Warfarin” to make it as obvious as possible what you are doing.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/03/ch-8-discussion-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/03/ch-8-discussion-questions.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 6 - Day 2</title>
@@ -766,603 +1193,6 @@
         <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CS407-001/2016/09/15/chapter-5-questions.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/15/chapter-5-questions.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 3 - Day 2</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2gec5x&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;_DlpPtIOMA4&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;You need to submit an idea or the fact that you don’t have an idea by tomorrow night to blackboard&lt;/li&gt;
-  &lt;li&gt;Audio 0:01:36.512224&lt;/li&gt;
-  &lt;li&gt;Someone did a robot with a face that changes when you tell it things (mood)&lt;/li&gt;
-  &lt;li&gt;People have made apps of things around campus&lt;/li&gt;
-  &lt;li&gt;Audio 0:02:50.978653&lt;/li&gt;
-  &lt;li&gt;For class next week, if not many people have ideas, we’ll use class to figure out the project idea&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;intro-to-design&quot;&gt;Intro to Design&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:25.364576&lt;/li&gt;
-  &lt;li&gt;More high level&lt;/li&gt;
-  &lt;li&gt;Today is design process in general&lt;/li&gt;
-  &lt;li&gt;Later will be how do you evaluate design&lt;/li&gt;
-  &lt;li&gt;Audio 0:05:37.283149&lt;/li&gt;
-  &lt;li&gt;Every time you make a digital artifact, you are making decisions and thus designing
-    &lt;ul&gt;
-      &lt;li&gt;Even though it might not feel like designing&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:06:46.009063&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en&quot;&gt;Three ways that good design makes you happy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:20:14.374219&lt;/li&gt;
-  &lt;li&gt;What are things that stood out in the video?
-    &lt;ul&gt;
-      &lt;li&gt;Comfortable
-        &lt;ul&gt;
-          &lt;li&gt;Happy, think creatively&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;uncomfortable
-        &lt;ul&gt;
-          &lt;li&gt;Focused, but un-creative&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:25:38.879283&lt;/li&gt;
-  &lt;li&gt;If software isn’t fun and easy to use, people will use an alternative&lt;/li&gt;
-  &lt;li&gt;Audio 0:26:18.045601&lt;/li&gt;
-  &lt;li&gt;“Design is a process and not a state”
-    &lt;ul&gt;
-      &lt;li&gt;Meaning
-        &lt;ul&gt;
-          &lt;li&gt;It’s dynamic and not step by step
-            &lt;ol&gt;
-              &lt;li&gt;Requirements&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Audio 0:28:31.977102&lt;/li&gt;
-          &lt;li&gt;Use case
-            &lt;ul&gt;
-              &lt;li&gt;description of how a particular user will interact with the system to accomplish a particular task&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;The process of collecting use cases (Anything not a use case should not be in the system)
-            &lt;ol&gt;
-              &lt;li&gt;Design&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Audio 0:30:40.662594&lt;/li&gt;
-          &lt;li&gt;Try to develop a mental model consistent with the mental model the user should have to use and understand the system
-            &lt;ol&gt;
-              &lt;li&gt;Implement&lt;/li&gt;
-              &lt;li&gt;Evaluate&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-          &lt;li&gt;You might do these steps 100 times&lt;/li&gt;
-          &lt;li&gt;Audio 0:32:25.643012&lt;/li&gt;
-          &lt;li&gt;How do you measure “goodness” of the interface
-            &lt;ul&gt;
-              &lt;li&gt;Time to learn, error-rate, etc&lt;/li&gt;
-              &lt;li&gt;Surveys&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;user-centered-design&quot;&gt;User-centered design&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:54.615972&lt;/li&gt;
-  &lt;li&gt;user-centered design vs participatory design
-    &lt;ul&gt;
-      &lt;li&gt;user-centered design makes sure you get input from the users while designing while participatory design has users involved in the actual design process&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:36:45.033722&lt;/li&gt;
-  &lt;li&gt;video&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ovj4hFxko7c&quot;&gt;What the $@%^ is UX?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:42:40.819544&lt;/li&gt;
-  &lt;li&gt;You have to balance what the users want and what you can deliver&lt;/li&gt;
-  &lt;li&gt;You don’t have to be artistic to design interfaces
-    &lt;ul&gt;
-      &lt;li&gt;It’s not art, it’s a science&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;participatory-design&quot;&gt;Participatory design&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:45:07.380258&lt;/li&gt;
-  &lt;li&gt;video&lt;/li&gt;
-  &lt;li&gt;Audio 0:50:54.256935&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;Audio 0:50:54.256935&quot;&gt;Participatory design techniques&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Gets the users to think creatively&lt;/li&gt;
-      &lt;li&gt;Looks like participatory design would take longer&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;focus-group&quot;&gt;Focus Group&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:55:54.310256&lt;/li&gt;
-  &lt;li&gt;Interview is like 1 on one, focus group is like a group interview&lt;/li&gt;
-  &lt;li&gt;Audio 0:57:12.044040&lt;/li&gt;
-  &lt;li&gt;Ethnographic interpretations
-    &lt;ul&gt;
-      &lt;li&gt;Sends designers into the field where the interface is being used&lt;/li&gt;
-      &lt;li&gt;Become part of the culture&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;scenario-development&quot;&gt;Scenario development&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Examines how might people use my system?&lt;/li&gt;
-  &lt;li&gt;Audio 1:00:11.662222&lt;/li&gt;
-  &lt;li&gt;Example - basalmic is a wire frame tool for drawing interface designs
-    &lt;ul&gt;
-      &lt;li&gt;Medium fidelity design&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;How do pleasant things work better?&lt;/td&gt;
-      &lt;td&gt;Being anxious and frightened makes you think “depth-first” and focused, but fun things allow you to relax and think outside of the box&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Design phases&lt;/td&gt;
-      &lt;td&gt;requirements, design, implementation, and evaluation&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;requirements phase&lt;/td&gt;
-      &lt;td&gt;The process of collecting use cases (Anything not a use case should not be in the system)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;use case&lt;/td&gt;
-      &lt;td&gt;description of how a particular user will interact with the system to accomplish a particular task&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;design phase&lt;/td&gt;
-      &lt;td&gt;Tries to develop a mental model consistent with the mental model the user should have to use and understand the system&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;user-centered design&lt;/td&gt;
-      &lt;td&gt;makes sure you get input from the users while designing&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;participatory design&lt;/td&gt;
-      &lt;td&gt;has users involved in the actual design process&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ethnographic interpretations&lt;/td&gt;
-      &lt;td&gt;becoming part of the culture using the product in order to design it better&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;scenario development&lt;/td&gt;
-      &lt;td&gt;examines how people might use your product&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/01/week-3-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/01/week-3-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ch 4 Discussion Questions</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;You are the new Chief Design Officer (CDO) of a new start-up, DTUI Inc. The project is to design a system for hospitals that will allow receptionists to check in people at the hospital faster. They wish to develop an interface that meets both the receptionist and patient’s needs. Describe in detail a design methodology of 4 stages to facilitate proper design of such a system.
-Write your answer in the form of a management plan for this project. For each stage, indicate the number of weeks that should be allocated. Hint: note the four phases of the design process:&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Requirements analysis
-Preliminary (conceptual) and detailed design
-Build and implementation
-Evaluation&lt;/p&gt;
-
-&lt;p&gt;During the requirements analysis stage of this project, I would interview patients and receptionists and try to find what they believe would get them into the hospital faster and most conveniently. Also, I would observe and analyze patients checking in to the hospital as well as receptionists guiding the check in in order to try to find flaws and trouble they might not have identified themselves. During the preliminary and detailed design stage, my team would compose diagrams and conceptualizations of our chosen solution to the problem. In the build and implementation phase, we would begin the implementation of our chosen solution. Lastly, we would determine the effectiveness of our solution in the evaluation phase.&lt;/p&gt;
-
-&lt;p&gt;The State of Maryland is developing a web-voting interface. For selecting the candidates, one design (RB) is a set of radio buttons and another is (CB) a combo-box (drops down when selecting the scroll arrow icon), both using standard fonts at 10-point size.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Compare these two designs when there are 4 candidates and predict the relative speed of performance and error rates. Support your choice by a thoughtful argument.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In a race with only four candidates, the radio button group greatly outperforms the combo-box because it is easier to see the choices and it is more clear which selection you have made. A combo-box is a better fit for many selections to where you would need to scroll to find the candidate you were looking for. If you used a combo-box in this example, it might make the users think that there were supposed to be many candidates to choose from, but only four are listed.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;An expert reviewer complains that both designs may work with young users who are familiar and expert in using a mouse, but that there will be problems for elderly and motor-impaired users who have difficulty controlling a mouse. The reviewer recommends a new design that includes a larger font (20-point size) and a numbered list to allow selection by keyboard easily. Describe a Participatory Design or Social Impact Statement process that might clarify this issue with elderly users.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A social impact statement process might look like the company announcing through social media that they have decided to re-design their voting interface with the elderly in mind.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Design an experiment to help resolve the issue brought up in Question 3. Assume you have substantial resources and access to subjects.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;To test the expert reviewer’s hypothesis that elderly and motor-impaired users would prefer larger font and a numbered keyboard selection, a simulation could be held with an elderly individual with those changes implemented to see if they have an easier time navigating the interface.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Provide a definition of participatory design. Give three arguments for and three arguments against participatory design.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Participatory design is part of the design process which aims at involving everyone who will be affected by the final product being developed. For example, if you are developing a product for people at a steel plant, you would get the operators involved in the design process.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Consider a system that dos not yet exist. An example is a totally automated fast-food restaurant, where customers order via touch screen interactions, pay by swiping their debit or credit cards, and then pick up their food–analogous to the self-check-out at some supermarkets, but even more extreme. Discuss how you conduct a contextual inquiry for a system that does not yet exist.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;You would have to make a believable simulation of the restaurant for interviewees to experience. For example, in the interview room, you could have the users buy a cheese burger by interacting with a dumbed-down touch screen (which they might even have to imagine works) and then give them the cheese burger when they have completed the checkout process. Then, you could interview them and get their thoughts and feelings on the process.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/01/ch-4-discussion-questions.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/01/ch-4-discussion-questions.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 3 - Day 1</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2gecmc&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;ogCCYEVa88M&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;ch-3---guidelines-principles-and-theories&quot;&gt;CH 3 - Guidelines, principles, and theories&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:12.975700&lt;/li&gt;
-  &lt;li&gt;Guidelines&lt;/li&gt;
-  &lt;li&gt;Principles&lt;/li&gt;
-  &lt;li&gt;Theories&lt;/li&gt;
-  &lt;li&gt;Difference
-    &lt;ul&gt;
-      &lt;li&gt;Guidelines are low-level, practical designs, principles are more abstract, and theories are even more abstract that try to make the design process easier&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Benefit of guidelines
-    &lt;ul&gt;
-      &lt;li&gt;Standardization of interfaces&lt;/li&gt;
-      &lt;li&gt;Audio 0:03:45.145182&lt;/li&gt;
-      &lt;li&gt;Consistency&lt;/li&gt;
-      &lt;li&gt;Best practices
-        &lt;ul&gt;
-          &lt;li&gt;From practical experience&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Or from studies&lt;/li&gt;
-      &lt;li&gt;National Cancer Institute Guidelines
-        &lt;ul&gt;
-          &lt;li&gt;Audio 0:04:54.886882&lt;/li&gt;
-          &lt;li&gt;Use radio buttons for binary choices
-            &lt;ul&gt;
-              &lt;li&gt;Prevents the user from being able to make a mistake&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Use thumbnail images instead of larger images
-            &lt;ul&gt;
-              &lt;li&gt;Reduce page load time&lt;/li&gt;
-              &lt;li&gt;Low internet speeds&lt;/li&gt;
-              &lt;li&gt;Wasting time&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;1986 Principles
-        &lt;ul&gt;
-          &lt;li&gt;Consistent data display / memory load&lt;/li&gt;
-          &lt;li&gt;Audio 0:07:24.298561&lt;/li&gt;
-          &lt;li&gt;Getting users’ attention
-            &lt;ul&gt;
-              &lt;li&gt;Changing color to a non-standard one&lt;/li&gt;
-              &lt;li&gt;Size of elements&lt;/li&gt;
-              &lt;li&gt;Audio 0:09:08.934676&lt;/li&gt;
-              &lt;li&gt;Dangers
-                &lt;ul&gt;
-                  &lt;li&gt;Flashing at a certain rate can harm or distract users&lt;/li&gt;
-                  &lt;li&gt;You can clutter your interface&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Facilitating data entry
-            &lt;ul&gt;
-              &lt;li&gt;Audio 0:11:08.431975&lt;/li&gt;
-              &lt;li&gt;Don’t make user input long lines of text&lt;/li&gt;
-              &lt;li&gt;minimal input
-                &lt;ul&gt;
-                  &lt;li&gt;Reduce errors&lt;/li&gt;
-                  &lt;li&gt;Reduce data processing on the back end&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;Consistency
-                &lt;ul&gt;
-                  &lt;li&gt;Don’t confuse the users&lt;/li&gt;
-                  &lt;li&gt;Audio 0:13:36.482119&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;minimal memory load
-                &lt;ul&gt;
-                  &lt;li&gt;Not making them remember too many things at once&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;compatibility entry/display&lt;/li&gt;
-              &lt;li&gt;flexibility&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;video&lt;/li&gt;
-  &lt;li&gt;Audio 0:18:12.039305&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LZy_WviXw2w&quot;&gt;HHS 508 Compliance&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;personas&quot;&gt;Personas&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:19.553955&lt;/li&gt;
-  &lt;li&gt;No single design will be useful to all users in all situations so we want to picture a user when we design&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;factors&quot;&gt;Factors&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:46.939491&lt;/li&gt;
-  &lt;li&gt;Age&lt;/li&gt;
-  &lt;li&gt;Experience&lt;/li&gt;
-  &lt;li&gt;Origin or ethnicity&lt;/li&gt;
-  &lt;li&gt;purpose for using software&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exercise&quot;&gt;Exercise&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:12.908985&lt;/li&gt;
-  &lt;li&gt;Tasks and personas&lt;/li&gt;
-  &lt;li&gt;Audio 0:28:20.233732&lt;/li&gt;
-  &lt;li&gt;Look at an interface you use frequently and think about the personas you might create&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;MyBama personas&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Inexperienced freshman
-    &lt;ul&gt;
-      &lt;li&gt;Register for classes&lt;/li&gt;
-      &lt;li&gt;View their schedule&lt;/li&gt;
-      &lt;li&gt;Find books&lt;/li&gt;
-      &lt;li&gt;Find housing&lt;/li&gt;
-      &lt;li&gt;Get a meal plan&lt;/li&gt;
-      &lt;li&gt;Get Bama bound orientation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Experienced senior&lt;/li&gt;
-  &lt;li&gt;Young Faculty&lt;/li&gt;
-  &lt;li&gt;Old faculty&lt;/li&gt;
-  &lt;li&gt;Old Students&lt;/li&gt;
-  &lt;li&gt;Foreign students&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Disabled students and faculty&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:33:12.875552&lt;/li&gt;
-  &lt;li&gt;Discussion&lt;/li&gt;
-  &lt;li&gt;Students
-    &lt;ul&gt;
-      &lt;li&gt;Existing&lt;/li&gt;
-      &lt;li&gt;Incoming&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Faculty&lt;/li&gt;
-  &lt;li&gt;Parents&lt;/li&gt;
-  &lt;li&gt;Visitors&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tasks&quot;&gt;Tasks&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;user&lt;/td&gt;
-      &lt;td&gt;register&lt;/td&gt;
-      &lt;td&gt;schedule&lt;/td&gt;
-      &lt;td&gt;find books&lt;/td&gt;
-      &lt;td&gt;meal plans&lt;/td&gt;
-      &lt;td&gt;e-mail&lt;/td&gt;
-      &lt;td&gt;enter hours&lt;/td&gt;
-      &lt;td&gt;payments&lt;/td&gt;
-      &lt;td&gt;parking&lt;/td&gt;
-      &lt;td&gt;input grades&lt;/td&gt;
-      &lt;td&gt;set permissions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;student&lt;/td&gt;
-      &lt;td&gt;xx&lt;/td&gt;
-      &lt;td&gt;xxxx&lt;/td&gt;
-      &lt;td&gt;xx&lt;/td&gt;
-      &lt;td&gt;x&lt;/td&gt;
-      &lt;td&gt;xxxx&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;xx&lt;/td&gt;
-      &lt;td&gt;xx&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;faculty&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:56.912584&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;design-choices&quot;&gt;Design choices&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:43:54.701790&lt;/li&gt;
-  &lt;li&gt;When do you choose to implement a language vs a GUI?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;schneidermans-eight-golden-rules&quot;&gt;Schneiderman’s eight golden rules&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;see Vocab&lt;/li&gt;
-  &lt;li&gt;Audio 0:48:28.160320&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;how-to-design-interfaces-to-prevent-errors&quot;&gt;How to design interfaces to prevent errors&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:49:05.030186&lt;/li&gt;
-  &lt;li&gt;Offer a tutorial&lt;/li&gt;
-  &lt;li&gt;Disable options that could cause you to cause an error or that aren’t currently an option&lt;/li&gt;
-  &lt;li&gt;Use standardized elements that they’ve seen before&lt;/li&gt;
-  &lt;li&gt;Reduce memory load&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;difference between guidelines, principles, and theories&lt;/td&gt;
-      &lt;td&gt;Guidelines are low-level, practical designs, principles are more abstract, and theories are even more abstract that try to make the design process easier&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;guidelines&lt;/td&gt;
-      &lt;td&gt;Make interfaces more consistent, are implemented from practical experience, and from studies&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;important guidelines&lt;/td&gt;
-      &lt;td&gt;consistent data display, reduce memory load, use appropriate methods of getting attention, and facilitate data entry&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;persona&lt;/td&gt;
-      &lt;td&gt;types of users you are designing for on a given project&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;factors of a persona&lt;/td&gt;
-      &lt;td&gt;age, experience, origin or ethnicity, purpose for using software&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;508 compliance&lt;/td&gt;
-      &lt;td&gt;means all users, regardless of disability status, can access technology&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;8 golden rules&lt;/td&gt;
-      &lt;td&gt;prevent errors, universal usability, consistency, offer informative feedback, design dialogs to yield closure, keeping users in control, prevent short-term memory load, and reversible&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Tue, 30 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/08/30/week-3-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/30/week-3-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Chapter 3 Discussion Questions</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;Give a brief explanation of the Eight Golden Rules of Interface Design. State an example you have seen on a device, computer interface or web site that violates those rules.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The Eight Golden Rules of Interface Design guide interface designers in creating consistent, universally usable, feedback-driven, error-handling, non-destructive, focused, and easy to understand  interfaces. An example of an interface which I have seen violate the Golden Rules is Facebook, which constantly re-arranges and reformats key components of the site and makes the user re-learn how to use it every time they visit.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Don Norman suggests organizing screens and menus functionally, designing commands and menu choices to be distinctive, and making it difficult for users to take irreversible actions. Norman also says to provide feedback about the state of the interface (e.g., changing the cursor to show whether a map interface is in zoom-in or select mode) and designing for consistency of actions (e.g., ensuring that Yes/No buttons are always displayed in the same order). State one example you have seen where you know these rules have been violated. Although this is crucial to a user interfaces success, suggest why there may be challenges to implement some of Norman’s guidelines.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The re-designed MyBama website hides the side menu when you shrink the browser window. However, there is no way to access the side-bar without resizing the window and there is nothing on the page to suggest you are in an altered state.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Clarify the difference among guidelines, principles and theories.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Guidelines are agreed-upon (either inside a group or organization or universally) standards which can speed up and improve the result of the development process by refining the goals of development. Principles are essentially guidelines which are treated as fact for the type of interface being designed. However, theories are explanation and interpretations of why or how design should work.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What are “accessibility guidelines”? Discuss progress from organization(s) that are taking the lead. State a few example guidelines.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Accessibility guidelines instruct how to make interfaces and content more accessible with an emphasis on users with disabilities. Major Operating System and software vendors are creating systems which are designed to be usable despite any physical ailments such as blindness or hearing loss. For example, text-to-speech and speech-to-text software is integrated in Mac OS and Windows OS and has been for many years. Accessibility guidelines from the Accessibility Programming Guide for iOS include making every user interface element in an app interactive via VoiceOver commands, making sure information is concise and helpful, and creating useful labels and hints (https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Making_Application_Accessible/Making_Application_Accessible.html#//apple_ref/doc/uid/TP40008785-CH102-SW5).&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What is the difference between micro-HCI theories and macro-HCI theories?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Micro-HCI theories focus on the usability of existing technology and interfaces in order to make using interfaces more enjoyable. However, macro-hci theories focus on developing interfaces with change the feelings experienced by the user while using the interface.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/08/29/chapter-3-discussion-questions.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/08/29/chapter-3-discussion-questions.html</guid>
         
         
       </item>
