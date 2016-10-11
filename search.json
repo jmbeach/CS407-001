@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "Week 9 - Day 1",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/10/11/week-9-day-1.html",
+      "date"     : "2016-10-11 00:00:00 -0500",
+      "content"  : "QuizletNavigate using audioInput devices  Audio 0:00:24.521844  Are these new devices useful?What are different types of keyboards, layouts, etc  Audio 0:02:14.468703  ergonomic  mechanical          more tactile feedback        DVORAK  digital (touch, swipe, onscreen)          slower        Audio 0:07:24.762444  Qwerty vs DVORAK  Audio 0:12:46.030180  Not necessarily worth itWhat are tasks we would do with pointing devices  Audio 0:15:36.599325  selection  positioning  choosing a point in space  quantifying          selecting numerical value        gesturing  Audio 0:17:30.547364  indirect-control vs direct-control  Audio 0:19:49.374082  Fitt’s Law          Model of human movement which tracks the time it takes for a user complete an action      What pointing devices have you seen?  Audio 0:26:00.964725  Trackpad  Trackball  mouse  stylus  joysticks      fingers    Future devices          eye tracking        Audio 0:32:47.123040      proximity input and gestures    Leap MotionDifferent kinds of displays  Audio 0:40:46.796361  Touchscreens for maps  Different refresh rates  Table top display  Projected (wall) display  head-mounted          virtual reality        phreeThursday  Walk through and see other groups and see if people have ideas that are helpful          See if your idea makes sense to people        Need a paper prototypevocab            term      definition                  pointing activities      selection, positioning, choosing points in space, quantifying, gesturing              direct control      user’s physical movement exactly maps to the digital outcome (ex touch screen)              indirect control      user’s physical movement does not exactly map to the digital translation (ex mouse)              Fitt’s Law      model of human movement which tracks the time it takes for a user complete an action"
+    } ,
+  
+    {
+      "title"    : "Discussion - Ch 10",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/10/11/discussion-ch-10.html",
+      "date"     : "2016-10-11 00:00:00 -0500",
+      "content"  : "A company is designing a kiosk that can display weather information in public locations. The kiosk will feature a touch screen so users can select a city by pointing on a map. Give three reasons why a touch screen is an effective device for this application.A touch screen is an effective device for this application because the input to see the weather in your city should only require a click so more advanced input is not necessary, because touch is intuitive for most users, and because it is faster than typing which would be cumbersome in a public space.  Explain the difference between direct-control and indirect-control pointing devices. Name a task when the one type is a more appropriate device than the other.In direct-control, the user’s actions mimic the outcome of the action. For example, when using a touch screen, a user taps the precise location they wish to click and it is clicked; their is no mental effort to translate digital space to physical space. However, in indirect-control inputs such as mouse or a joystick, you must translate a different physical distance to a virtual distance that are not 1:1. However, a mouse and other indirect-control devices offer more precision so they are better to use in devices such as CAD tools.  Make a list of pointing devices. Consider some new or futuristic alternatives.Pointing devices include mouse, stylus, fingers, and joysticks. Some futuristic alternatives might be glasses that know where you are looking and point there.  Define Responsive Design, i.e. what characteristics of a display would make an individual state that the design they are viewing seems responsive?Responsive design allows the same interface to adapt to different kinds of devices. Therefore, if you view the interface on a desktop, then the interface adapts and allows for larger more spread out features, but if you view the interface on a mobile device, than the interface is more compact.  Give an example of where collaboration and display technologies work together.With redbox kiosks, multiple people often select a movie to rent without interfering with eachother.  Give a definition of context-aware computing. Provide an example of one application of context-aware computing that would meet the user needs of a tourist.An example of context-aware computing is the location services on smart phones which can notify you to do things on your todo list when you get to a specific location."
+    } ,
+  
+    {
       "title"    : "Week 8 - Day 2 (Chapter 9)",
       "category" : "",
       "tags"     : "",

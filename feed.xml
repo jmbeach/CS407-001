@@ -6,9 +6,206 @@
 </description>
     <link>http://jmbeach.github.io/CS407-001/</link>
     <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Oct 2016 10:30:38 -0500</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2016 10:30:38 -0500</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2016 10:27:02 -0500</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2016 10:27:02 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 9 - Day 1</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2mlaoq&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;qDQcXYL-Vho&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;input-devices&quot;&gt;Input devices&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:24.521844&lt;/li&gt;
+  &lt;li&gt;Are these new devices useful?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-are-different-types-of-keyboards-layouts-etc&quot;&gt;What are different types of keyboards, layouts, etc&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:14.468703&lt;/li&gt;
+  &lt;li&gt;ergonomic&lt;/li&gt;
+  &lt;li&gt;mechanical
+    &lt;ul&gt;
+      &lt;li&gt;more tactile feedback&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DVORAK&lt;/li&gt;
+  &lt;li&gt;digital (touch, swipe, onscreen)
+    &lt;ul&gt;
+      &lt;li&gt;slower&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:07:24.762444&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tIJNusYZXMA&quot;&gt;Qwerty vs DVORAK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:12:46.030180&lt;/li&gt;
+  &lt;li&gt;Not necessarily worth it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-are-tasks-we-would-do-with-pointing-devices&quot;&gt;What are tasks we would do with pointing devices&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:36.599325&lt;/li&gt;
+  &lt;li&gt;selection&lt;/li&gt;
+  &lt;li&gt;positioning&lt;/li&gt;
+  &lt;li&gt;choosing a point in space&lt;/li&gt;
+  &lt;li&gt;quantifying
+    &lt;ul&gt;
+      &lt;li&gt;selecting numerical value&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;gesturing&lt;/li&gt;
+  &lt;li&gt;Audio 0:17:30.547364&lt;/li&gt;
+  &lt;li&gt;indirect-control vs direct-control&lt;/li&gt;
+  &lt;li&gt;Audio 0:19:49.374082&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0OPmsy7SXoM&quot;&gt;Fitt’s Law&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Model of human movement which tracks the time it takes for a user complete an action&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-pointing-devices-have-you-seen&quot;&gt;What pointing devices have you seen?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:00.964725&lt;/li&gt;
+  &lt;li&gt;Trackpad&lt;/li&gt;
+  &lt;li&gt;Trackball&lt;/li&gt;
+  &lt;li&gt;mouse&lt;/li&gt;
+  &lt;li&gt;stylus&lt;/li&gt;
+  &lt;li&gt;joysticks&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;fingers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Future devices
+    &lt;ul&gt;
+      &lt;li&gt;eye tracking&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:32:47.123040&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;proximity input and gestures&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yOjzt9HMUr0&quot;&gt;Leap Motion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;different-kinds-of-displays&quot;&gt;Different kinds of displays&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:46.796361&lt;/li&gt;
+  &lt;li&gt;Touchscreens for maps&lt;/li&gt;
+  &lt;li&gt;Different refresh rates&lt;/li&gt;
+  &lt;li&gt;Table top display&lt;/li&gt;
+  &lt;li&gt;Projected (wall) display&lt;/li&gt;
+  &lt;li&gt;head-mounted
+    &lt;ul&gt;
+      &lt;li&gt;virtual reality&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tuY_TYqiasU&quot;&gt;phree&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;thursday&quot;&gt;Thursday&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Walk through and see other groups and see if people have ideas that are helpful
+    &lt;ul&gt;
+      &lt;li&gt;See if your idea makes sense to people&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Need a paper prototype&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;term&lt;/th&gt;
+      &lt;th&gt;definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pointing activities&lt;/td&gt;
+      &lt;td&gt;selection, positioning, choosing points in space, quantifying, gesturing&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;direct control&lt;/td&gt;
+      &lt;td&gt;user’s physical movement exactly maps to the digital outcome (ex touch screen)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;indirect control&lt;/td&gt;
+      &lt;td&gt;user’s physical movement does not exactly map to the digital translation (ex mouse)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fitt’s Law&lt;/td&gt;
+      &lt;td&gt;model of human movement which tracks the time it takes for a user complete an action&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 11 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/11/week-9-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/11/week-9-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Discussion - Ch 10</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;A company is designing a kiosk that can display weather information in public locations. The kiosk will feature a touch screen so users can select a city by pointing on a map. Give three reasons why a touch screen is an effective device for this application.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A touch screen is an effective device for this application because the input to see the weather in your city should only require a click so more advanced input is not necessary, because touch is intuitive for most users, and because it is faster than typing which would be cumbersome in a public space.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Explain the difference between direct-control and indirect-control pointing devices. Name a task when the one type is a more appropriate device than the other.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In direct-control, the user’s actions mimic the outcome of the action. For example, when using a touch screen, a user taps the precise location they wish to click and it is clicked; their is no mental effort to translate digital space to physical space. However, in indirect-control inputs such as mouse or a joystick, you must translate a different physical distance to a virtual distance that are not 1:1. However, a mouse and other indirect-control devices offer more precision so they are better to use in devices such as CAD tools.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make a list of pointing devices. Consider some new or futuristic alternatives.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pointing devices include mouse, stylus, fingers, and joysticks. Some futuristic alternatives might be glasses that know where you are looking and point there.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Define Responsive Design, i.e. what characteristics of a display would make an individual state that the design they are viewing seems responsive?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Responsive design allows the same interface to adapt to different kinds of devices. Therefore, if you view the interface on a desktop, then the interface adapts and allows for larger more spread out features, but if you view the interface on a mobile device, than the interface is more compact.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Give an example of where collaboration and display technologies work together.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;With redbox kiosks, multiple people often select a movie to rent without interfering with eachother.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Give a definition of context-aware computing. Provide an example of one application of context-aware computing that would meet the user needs of a tourist.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;An example of context-aware computing is the location services on smart phones which can notify you to do things on your todo list when you get to a specific location.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/11/discussion-ch-10.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/11/discussion-ch-10.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 8 - Day 2 (Chapter 9)</title>
@@ -972,227 +1169,6 @@
         <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CS407-001/2016/09/20/ch-6-discussion-questions.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/20/ch-6-discussion-questions.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 5 - Day 2</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2j11i3&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;S48TwgvMW08&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Presentations review
-    &lt;ul&gt;
-      &lt;li&gt;Feedback on the homework
-        &lt;ul&gt;
-          &lt;li&gt;Makes you pay attention to things you already do&lt;/li&gt;
-          &lt;li&gt;Gives you better tools to critique the interfaces you use&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:02:01.342658&lt;/li&gt;
-  &lt;li&gt;Did it change the way you might design an interface
-    &lt;ul&gt;
-      &lt;li&gt;Yeah, knowing eight golden rules, etc.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Experienced designers know that they don’t have all the answers
-    &lt;ul&gt;
-      &lt;li&gt;You need user input&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:05:23.445473&lt;/li&gt;
-  &lt;li&gt;You have to think about non-standard situations
-    &lt;ul&gt;
-      &lt;li&gt;unpredictable usage&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;expert-reviews-and-heuristics&quot;&gt;Expert Reviews and Heuristics&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Kinds of reviews&lt;/li&gt;
-  &lt;li&gt;guideline review&lt;/li&gt;
-  &lt;li&gt;heuristic review&lt;/li&gt;
-  &lt;li&gt;Audio 0:08:30.995883&lt;/li&gt;
-  &lt;li&gt;cognitive walkthrough&lt;/li&gt;
-  &lt;li&gt;formal usability inspection&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exercise&quot;&gt;Exercise&lt;/h2&gt;
-
-&lt;p&gt;Examples:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Google slides&lt;/li&gt;
-  &lt;li&gt;Advising appointment interface&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.usatoday.com/&quot;&gt;news site&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Intuitive to find the news I was looking for&lt;/li&gt;
-      &lt;li&gt;Inconsistent size of layout elements&lt;/li&gt;
-      &lt;li&gt;Advertisements auto-play and scroll with the page&lt;/li&gt;
-      &lt;li&gt;Audio 0:22:56.056939&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;You have to be aware of competition&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;think-aloud&quot;&gt;Think-aloud&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:47.500776&lt;/li&gt;
-  &lt;li&gt;Talking through an interface task as it is performed
-    &lt;ul&gt;
-      &lt;li&gt;Could potentially distract the user from completing the task&lt;/li&gt;
-      &lt;li&gt;not necessarily natural&lt;/li&gt;
-      &lt;li&gt;gives a better insight into how the user approaches the interface&lt;/li&gt;
-      &lt;li&gt;Audio 0:43:40.208723&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;paper-prototype&quot;&gt;Paper-prototype&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:48.676886&lt;/li&gt;
-  &lt;li&gt;People aren’t as hesitant to request changes to it&lt;/li&gt;
-  &lt;li&gt;Faster to build&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;survey-instruments&quot;&gt;Survey Instruments&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:48:28.430657&lt;/li&gt;
-  &lt;li&gt;what are things you need to think about when designing a survey?
-    &lt;ul&gt;
-      &lt;li&gt;Having good representative users&lt;/li&gt;
-      &lt;li&gt;Don’t bias your questions&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acceptance-tests&quot;&gt;Acceptance tests&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;You can’t have subjective requirements
-    &lt;ul&gt;
-      &lt;li&gt;Can’t be “easy to use”&lt;/li&gt;
-      &lt;li&gt;Has to&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;heuristic evaluation&lt;/td&gt;
-      &lt;td&gt;expert review where an interface is checked for conformance with a short list of design heuristics (such as the Eight Golden Rules)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;guideline review&lt;/td&gt;
-      &lt;td&gt;expert review where interface is checked for conformance with the organizational or other guideline documents&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;consistency inspection&lt;/td&gt;
-      &lt;td&gt;expert review which checks if the interface has fonts, color schemes, layout, etc. compared to other common interfaces&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;formal usability inspection&lt;/td&gt;
-      &lt;td&gt;expert review styled like a courtroom meeting in which the interface is presented to discuss its merits or weaknesses&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;cognitive walkthrough&lt;/td&gt;
-      &lt;td&gt;expert review in which the expert simulates walking through the interface and performing typical tasks&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;sight tracking&lt;/td&gt;
-      &lt;td&gt;method for observing how users progress through an interface and what catches their attention&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;think-aloud&lt;/td&gt;
-      &lt;td&gt;talking out loud while a user performs a task to understand their thought-process&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bad requirement&lt;/td&gt;
-      &lt;td&gt;A subjective requirement such as “needs to be easy to use”&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/15/week-5-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/15/week-5-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Chapter 5 Questions</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;Describe at least three different types of expert review methods.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Heuristic evaluation is where experts review an interface and decide whether or not it conforms to well-established rules, such as the Eight Golden Rules. Guidelines review is where the interface is reviewed in order to see if it conforms to the guidelines established by the organization. Consistency inspection is when the interface is compared to other interfaces in order to check for consistent fonts, formats, schemes, and other details.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Compare and contrast controlled psychological experiments and usability tests in the evaluation process of user interfaces. Be sure to include the benefits and limitations of each.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In a psychological experiment, the method of testing the interface is more empirical: one gathers evidence for or against the usability of the interface through surveys and other techniques. However, it is harder to use psychological experiments because you have to find very specific things about the interface to test and a sample of users who match the demographic of users who will see the interface. In a usability test, however, the tests are more subjective. One can ask the user, “Did you enjoy using the interface,” for example. However, usability tests are less empirical.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Give two reasons why expert reviews are useful. Also give two limitations of expert reviews.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Expert reviews are useful because usability experts are trained to know exactly what to look for in an interface and how to find it quickly to make sure it is high quality. One limitation of expert reviews is that the expert might not fully understand the scope of the project and might not give advice geared towards the actual desired functionality. Also, the expert might not be familiar with the user group who is intended to use the product and might make suggestions which are irrelevant to them.&lt;/p&gt;
-
-&lt;p&gt;For questions 5-7, refer to the following instructions:&lt;/p&gt;
-
-&lt;p&gt;One argument against the current interface design of a popular word processor is that it has all the functional menu items appearing together which cause the interface to be too complex. This complexity results in a confusing and frustrating experience for novice users. An alternative design is to provide different levels of functional complexity, so users can choose the level that is suitable for them, then advance to higher level as they get familiar with the tool, thus feel more comfortable and learn more efficiently. You are asked to conduct usability testing to compare these two designs.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Which type of usability testing should be used for this situation? Explain why.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Competitive usability testing should be use to compare the new version of the interface which allows you to move up to higher levels of complexity to the old interface which does not. This would allow for a good side-by-side comparison of the usability of each version.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;List some general principles of subject selection in usability testing. How should you select subjects for this case?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;It would make sense to pick a group of familiar users and a group of unfamiliar users and find how they feel about hiding parts of the interface. One reason for this is that the advanced users might be unhappy that the features they like to use are hidden. Also, it is important to see if the unfamiliar users wish that they could see some of the more advanced features.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;List and briefly describe the steps in the usability testing you would conduct.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I would create a survey of possible problems or benefits the users might find and ask them to rate how they believe the product stacks up. For example, if they thought there was not enough buttons on the page, there would be a spot for them to mark that they were dissatisfied with the number of buttons on the page.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/15/chapter-5-questions.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/15/chapter-5-questions.html</guid>
         
         
       </item>
