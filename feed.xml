@@ -6,9 +6,253 @@
 </description>
     <link>http://jmbeach.github.io/CS407-001/</link>
     <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Oct 2016 10:27:02 -0500</pubDate>
-    <lastBuildDate>Tue, 11 Oct 2016 10:27:02 -0500</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2016 10:35:14 -0500</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2016 10:35:14 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 10 - Day 1</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2nrp1l&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;7ZOaoFTXe8g&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;feedback-on-evaluation-day&quot;&gt;Feedback On Evaluation Day&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:28.179886&lt;/li&gt;
+  &lt;li&gt;Really good feedback&lt;/li&gt;
+  &lt;li&gt;Fun&lt;/li&gt;
+  &lt;li&gt;Audio 0:01:54.144093&lt;/li&gt;
+  &lt;li&gt;Think like a user&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;report&quot;&gt;Report&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Probably need three paragraphs of summary&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;participation-and-collaboration&quot;&gt;Participation and collaboration&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:41.462172&lt;/li&gt;
+  &lt;li&gt;Constant communication is commonplace now&lt;/li&gt;
+  &lt;li&gt;What are the benefits and downsides of this kind of communication?&lt;/li&gt;
+  &lt;li&gt;What are the similarities and differences of services like StackOverflow, E-mail, Twitter, Yelp, etc.
+    &lt;ul&gt;
+      &lt;li&gt;Speed
+        &lt;ul&gt;
+          &lt;li&gt;You don’t expect immediate feedback on StackOverflow, but on Twitter or Facebook, you do.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Video-conferencing
+        &lt;ul&gt;
+          &lt;li&gt;Location-dependent&lt;/li&gt;
+          &lt;li&gt;Have to devote all your time&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:11:21.488877&lt;/li&gt;
+  &lt;li&gt;Synchronicity
+    &lt;ul&gt;
+      &lt;li&gt;asynchronous &amp;lt;—&amp;gt; synchronous&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Physical distribution
+    &lt;ul&gt;
+      &lt;li&gt;same location &amp;lt; — &amp;gt; different location&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Turnover
+    &lt;ul&gt;
+      &lt;li&gt;low &amp;lt; — &amp;gt; high&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Planned permanence
+    &lt;ul&gt;
+      &lt;li&gt;short &amp;lt; — &amp;gt; long&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;scale
+    &lt;ul&gt;
+      &lt;li&gt;2 &amp;lt; —- &amp;gt; n&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;communities&quot;&gt;communities&lt;/h1&gt;
+    &lt;ul&gt;
+      &lt;li&gt;0 &amp;lt; — &amp;gt; n&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;nascence
+    &lt;ul&gt;
+      &lt;li&gt;routine &amp;lt; — &amp;gt; developing&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;differentiate-the-roles-of-face-to-face-encounters-and-collaborative-interfaces-explain-the-limitations-and-benefits-of-each-type-of-communication&quot;&gt;Differentiate the roles of face-to-face encounters and collaborative interfaces. Explain the limitations and benefits of each type of communication.&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:26.274459&lt;/li&gt;
+  &lt;li&gt;Face-to-face is good to get to know each-other, to get a big project off the ground, etc.&lt;/li&gt;
+  &lt;li&gt;Face-to-face is not as easily tracked&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6ArRBGEGPzA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:31:09.062057&lt;/li&gt;
+      &lt;li&gt;What is the benefit?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;why-do-we-collaborate&quot;&gt;Why do we collaborate?&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:28.130572&lt;/li&gt;
+  &lt;li&gt;It’s fun&lt;/li&gt;
+  &lt;li&gt;It’s beneficial to get others’ advice&lt;/li&gt;
+  &lt;li&gt;When is collaboration useful for accomplishing your goals?
+    &lt;ul&gt;
+      &lt;li&gt;Online markets&lt;/li&gt;
+      &lt;li&gt;Creative projects&lt;/li&gt;
+      &lt;li&gt;Crowd-sourcing
+        &lt;ul&gt;
+          &lt;li&gt;Wikipedia&lt;/li&gt;
+          &lt;li&gt;Kickstarter
+            &lt;ul&gt;
+              &lt;li&gt;Crowd-funding&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Mechanical Turk
+            &lt;ul&gt;
+              &lt;li&gt;Crowd-work&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;explain-how-collaborative-interfaces-can-improve-or-harm-teamwork&quot;&gt;Explain how collaborative interfaces can improve or harm teamwork.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Some people work better alone
+    &lt;ul&gt;
+      &lt;li&gt;Sometimes they’ll get less done if they collaborate too much&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;It’s harmful trying to get the interface to work&lt;/li&gt;
+  &lt;li&gt;Internet, hardware, software dependencies, etc.&lt;/li&gt;
+  &lt;li&gt;E-mail
+    &lt;ul&gt;
+      &lt;li&gt;Don’t have to interrupt someone to get their help&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;task-management-with-group-chat&quot;&gt;Task Management with Group Chat&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/606zuCUU8QA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:57:08.144190&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;synchronicity&lt;/td&gt;
+      &lt;td&gt;the degree of being in sync of a collaborative interface. asynchronous on the low end and synchronous on the high end&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;physical distribution&lt;/td&gt;
+      &lt;td&gt;measures the distance between collaborators in a collaborative interface (in the same location on the low end, not in the same location on the high end)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;turnover&lt;/td&gt;
+      &lt;td&gt;describes how long a user will keep using the interface (once or more)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;planned permanence&lt;/td&gt;
+      &lt;td&gt;describes how long the interface will actually be available (will we always have video chat?)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;scale&lt;/td&gt;
+      &lt;td&gt;number of participants in a collaborative interface&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;# communities&lt;/td&gt;
+      &lt;td&gt;describes the grouping of a collaborative interface (think reddit)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nascence&lt;/td&gt;
+      &lt;td&gt;describes how developed a collaborative interface is (email vs teleconference)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;face-to-face vs collaborative interfaces&lt;/td&gt;
+      &lt;td&gt;face-to-face is good to get to know your teammates to get projects off the ground, but collaborative interfaces are fine for the grunt work of the project&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crowd-sourcing examples&lt;/td&gt;
+      &lt;td&gt;wikipedia, kickstarter, mechanical turk&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 18 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/18/week-10-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/18/week-10-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 11 Discussion</title>
+        <description>&lt;p&gt;Take a position on whether you feel user interfaces for work will remain isolated or if they will become more collaborative. Present evidence to support your argument.&lt;/p&gt;
+
+&lt;p&gt;I believe that interfaces for work will remain more isolated because direct interaction is the simplest. Take conference calls for example, even when they work perfectly, they still do not allow you the same level of interaction as in person interaction and are therefore inferior.&lt;/p&gt;
+
+&lt;p&gt;Describe your opinion of why collaborative interfaces, such as email, are much more popular than others, such as video-conferencing.&lt;/p&gt;
+
+&lt;p&gt;Email replaces its successor “pen and paper” in a way that feels exactly the same and then brings added benefits such as faster speed. video-conferencing however, does not replace its successor in a way that feels just the same. In real life, you never have to worry about losing connection or someone’s hardware malfunctioning. Video-conferencing is a bandaid for not being able to meet; it is not more beneficial than meeting in person.&lt;/p&gt;
+
+&lt;p&gt;Differentiate the roles of face-to-face encounters and collaborative interfaces. Explain the limitations and benefits of each type of communication.&lt;/p&gt;
+
+&lt;p&gt;Collaborative interfaces are mostly only meant to bridge the gap when you are in a different location from your collaborator. Face-to-face encounters allow for way more straight-forward, easy interaction. Collaborative interfaces are useful because without them you’d have no way to communicate.&lt;/p&gt;
+
+&lt;p&gt;Below is 7 dimensions of the Model of Coordinated Action (MoCA) model (Lee and Paine, 2015). Cite examples of each and how you feel it might influence a successful collaboration.&lt;/p&gt;
+
+&lt;p&gt;Explain how collaborative interfaces can improve or harm teamwork.&lt;/p&gt;
+
+&lt;p&gt;Collaborative interfaces can improve teamwork when all the users understand the limitations of the interface and take pains to make sure they make it work before connecting to their partners. They are harmful, however, when users spend more time trying to get the interface to work than actually collaborating.&lt;/p&gt;
+
+&lt;p&gt;Explain how an interface designer can protect users of a collaborative interface from hostile or malicious behavior.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/18/ch-11-discussion.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/18/ch-11-discussion.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 9 - Day 1</title>
@@ -965,210 +1209,6 @@
         <pubDate>Thu, 22 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CS407-001/2016/09/22/discussion-ch-7.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/22/discussion-ch-7.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 6 - Day 1</title>
-        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;baRqCbe8icI&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Error messages are always bad&lt;/li&gt;
-  &lt;li&gt;What design rule have we learned which should prevent vague error messages?
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:00:57.791883&lt;/li&gt;
-      &lt;li&gt;Prevent errors instead of displaying them&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;three-case-studies&quot;&gt;Three Case Studies&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ATM case study&lt;/li&gt;
-  &lt;li&gt;Audio 0:02:23.040821
-    &lt;ul&gt;
-      &lt;li&gt;What jumped out at you?&lt;/li&gt;
-      &lt;li&gt;Iterative design&lt;/li&gt;
-      &lt;li&gt;Audio 0:04:29.375915&lt;/li&gt;
-      &lt;li&gt;You have to think about non-obvious use cases such as poor lighting&lt;/li&gt;
-      &lt;li&gt;Video taping responses to the system&lt;/li&gt;
-      &lt;li&gt;Eye-tracker
-        &lt;ul&gt;
-          &lt;li&gt;You get to see where the user’s attention is at all times
-            &lt;ul&gt;
-              &lt;li&gt;You could see if there’s something distracting&lt;/li&gt;
-              &lt;li&gt;You can see how long it takes for people to hone in on what they’re looking for&lt;/li&gt;
-              &lt;li&gt;Do the users look at the screen when they should look at the keypad (vice versa)&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Other improvements
-        &lt;ul&gt;
-          &lt;li&gt;use-case testing
-            &lt;ul&gt;
-              &lt;li&gt;security issues&lt;/li&gt;
-              &lt;li&gt;line formed&lt;/li&gt;
-              &lt;li&gt;Audio 0:09:08.048261&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;video-discussion&quot;&gt;Video discussion&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:05.371007&lt;/li&gt;
-  &lt;li&gt;Very rapid design &lt;a href=&quot;https://www.youtube.com/watch?v=szr0ezLyQHY&quot;&gt;Nordstrom&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Agile development&lt;/li&gt;
-  &lt;li&gt;Very iterative design&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;apple-design-question&quot;&gt;Apple design question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:23.461046&lt;/li&gt;
-  &lt;li&gt;What guidelines make sense and which are less clear?
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;https://developer.apple.com/ios/human-interface-guidelines/&quot;&gt;apple guidelines&lt;/a&gt;&lt;/p&gt;
-
-        &lt;table&gt;
-          &lt;thead&gt;
-            &lt;tr&gt;
-              &lt;th style=&quot;text-align: left&quot;&gt;makes sense&lt;/th&gt;
-              &lt;th style=&quot;text-align: left&quot;&gt;don’t make sense&lt;/th&gt;
-            &lt;/tr&gt;
-          &lt;/thead&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td style=&quot;text-align: left&quot;&gt;clarity&lt;/td&gt;
-              &lt;td style=&quot;text-align: left&quot;&gt;deference&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td style=&quot;text-align: left&quot;&gt;consistency&lt;/td&gt;
-              &lt;td style=&quot;text-align: left&quot;&gt;user control&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:30:08.254667&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;data-driven-design&quot;&gt;Data-driven Design&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:15.672038&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.teradata.com/Resources/Videos/Volvo-Cars-Fueling-innovation-with-Data-Analytics-and-the-Internet-of-Things/?LangType=1033&amp;amp;LangSelect=true&quot;&gt;volvo video&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:41:34.442311&lt;/li&gt;
-  &lt;li&gt;Volvo takes advantage of big data to better design cars
-    &lt;ul&gt;
-      &lt;li&gt;Part failure statistics&lt;/li&gt;
-      &lt;li&gt;User customization choices&lt;/li&gt;
-      &lt;li&gt;cars interconnected&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Term&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;iterative design&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;design based on the most recent version of the design where changes and refinements are made&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;big data&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;using large data sets to make business decisions&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/20/week-6-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/20/week-6-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ch 6 - Discussion Questions</title>
-        <description>&lt;p&gt;Consider additional requirements and technology to further complicate your analysis of an Automated Teller Machine (ATM) design:&lt;/p&gt;
-
-&lt;p&gt;Use eye-tracker data to further analyze the product&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Eye-tracker data could show us where users look first when they use the interface which would allow us to better place the key features they are looking for in the places they look first
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Consider accessibility (universal usability) issues such as lighting, physical placement of ATM, etc.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The ATM should be placed on ground level (not raised or lowered) so that users do not have to crane their posture up or down to interact with it. Also it should be in a well-lit environment so that users can correctly see the interface they are using. Furthermore the ATM should be placed in its own space, away from other things people want to use so that users are not crammed into a space and so that, if a queue of users forms to use it, they do not block the paths of others.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Consider user profile issues, e.g. is this the first time a user is using an ATM?&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Perhaps to help new users, if more than a couple of user errors occur, the interface should begin to display non-intrusive help messages to guide them towards their goal.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Requirement to perform beta and/or market tests?&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Positioning and lighting of the environment of the ATM could be tested in control groups to find the most preferred setup of the ATM by users.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Are there other stress factors such as a looming time deadline or a personal safety issue?&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;One stress factor users might encounter is if they are using the ATM while a large queue has formed behind them or if they have waited a long time to use the ATM. The frustration of waiting a long time and the stress of wanting to use the ATM quickly so others can use the machine will cause the users to make more mistakes and have less pleasant experiences.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Review the iOS Human Interface Guidelines in the iOS Developer Library at: https://developer.apple.com/ios/human-interface-guidelines/&lt;/p&gt;
-
-&lt;p&gt;1) select one guideline that makes perfect sense and seems easy to incorporate into a design&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;In my opinion, clarity is the most logical of the guidelines. It is straight-forward to have a guideline which asks the developer to make things easier to read, see, and interact with.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;2) select another guideline that is much less clear requiring further explanation or analysis to incorporate into a design.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The deference guideline sounds much more abstract and harder to implement. For example, it asks the developer to make subjective improvements to the interface such as being &quot;beautiful&quot; and &quot;easy to understand.&quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;At present, the drive to use Big Data to define or enhance corporate strategies seems to be a global business trend. State an example of where this data can improve a business, focusing on user interface aspects.&lt;/p&gt;
-
-&lt;p&gt;One could examine big data such as user click positions, eye-tracking data, and so on from mass repositories and try to find trending key points where people look and click in order to find better places to position elements.&lt;/p&gt;
-
-&lt;p&gt;Cite a past experience where user interface development methods might apply to another system development activity that might not have a strong user interface component.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/20/ch-6-discussion-questions.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/20/ch-6-discussion-questions.html</guid>
         
         
       </item>
