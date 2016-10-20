@@ -6,9 +6,261 @@
 </description>
     <link>http://jmbeach.github.io/CS407-001/</link>
     <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Oct 2016 10:35:14 -0500</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 10:35:14 -0500</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2016 15:35:05 -0500</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2016 15:35:05 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 10 - Day 2 (Ch 12 - Advancing the User Experience)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2o6ey8&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;vwMeVyYK56E&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;display-design&quot;&gt;Display Design&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What are strange sequences you’ve seen around?&lt;/li&gt;
+  &lt;li&gt;Audio 0:01:52.702271&lt;/li&gt;
+  &lt;li&gt;Whenever you order a pizza
+    &lt;ul&gt;
+      &lt;li&gt;You build&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Self-checkout
+    &lt;ul&gt;
+      &lt;li&gt;Two displays - one for pay and one for ringing you up - and they’re not in sync.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;guidelines-on-a-lot-of-data&quot;&gt;Guidelines On A lot of Data&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:53.976167&lt;/li&gt;
+  &lt;li&gt;Group similar fields
+    &lt;ul&gt;
+      &lt;li&gt;spatially&lt;/li&gt;
+      &lt;li&gt;lines&lt;/li&gt;
+      &lt;li&gt;color&lt;/li&gt;
+      &lt;li&gt;separate by screen&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sequence-guidelines&quot;&gt;Sequence Guidelines&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:14.153892&lt;/li&gt;
+  &lt;li&gt;Being able to go back&lt;/li&gt;
+  &lt;li&gt;progress indicators
+    &lt;ul&gt;
+      &lt;li&gt;Need to know how long it’s going to take in case they don’t have time&lt;/li&gt;
+      &lt;li&gt;prevents rushing and frustration&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;view-or-window-management&quot;&gt;View or Window Management&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:24.273649&lt;/li&gt;
+  &lt;li&gt;You have to keep them manageable&lt;/li&gt;
+  &lt;li&gt;Coordination
+    &lt;ul&gt;
+      &lt;li&gt;Ex: photoshop - need your pallet and your photo window open at once&lt;/li&gt;
+      &lt;li&gt;Windows explorer: need to see folders/files and see a preview as well&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Navigation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;animation&quot;&gt;Animation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:10.159731&lt;/li&gt;
+  &lt;li&gt;When is it good?
+    &lt;ul&gt;
+      &lt;li&gt;Entertainment&lt;/li&gt;
+      &lt;li&gt;Getting attention&lt;/li&gt;
+      &lt;li&gt;Explanation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:19.403245&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WjVHvC9EeB4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:24:55.223570&lt;/li&gt;
+      &lt;li&gt;Animation makes it easier to see how lifespan and money has increased over time&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bumptop-multi-touch&quot;&gt;BumpTop Multi-touch&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:32.927978&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6jhoWsHwU7w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mistakes-on-web-based-displays&quot;&gt;Mistakes on Web-based Displays&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:44.620799&lt;/li&gt;
+  &lt;li&gt;Making text too small&lt;/li&gt;
+  &lt;li&gt;Too much content&lt;/li&gt;
+  &lt;li&gt;Burying information too deep&lt;/li&gt;
+  &lt;li&gt;Confusing navigation&lt;/li&gt;
+  &lt;li&gt;unexpected location&lt;/li&gt;
+  &lt;li&gt;unclear links&lt;/li&gt;
+  &lt;li&gt;bad tables&lt;/li&gt;
+  &lt;li&gt;color combos&lt;/li&gt;
+  &lt;li&gt;bod forms&lt;/li&gt;
+  &lt;li&gt;missing features&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;color-issues&quot;&gt;Color Issues&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:45.289976&lt;/li&gt;
+  &lt;li&gt;Using a relatively small number of colors&lt;/li&gt;
+  &lt;li&gt;Using color for specific things&lt;/li&gt;
+  &lt;li&gt;Universal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;colorbrewer&quot;&gt;ColorBrewer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:15.398286&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zrZbVpUZOHs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://colorbrewer2.org/#type=sequential&amp;amp;scheme=BuGn&amp;amp;n=3&quot;&gt;ColorBrewer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;anthropomorphic-design-problems&quot;&gt;anthropomorphic design problems&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Causes users to feel like they machine is capable of more than it is&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;error-messages&quot;&gt;Error messages&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:57:36.825977&lt;/li&gt;
+  &lt;li&gt;Use proper capitalization&lt;/li&gt;
+  &lt;li&gt;Tell how to resolve it&lt;/li&gt;
+  &lt;li&gt;Tell the location of the error&lt;/li&gt;
+  &lt;li&gt;Don’t use harsh wording&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;grouping field layout guidelines&lt;/td&gt;
+      &lt;td&gt;group spatially, with lines, with color, or separate by screen&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sequence guidelines&lt;/td&gt;
+      &lt;td&gt;being able to go back and progress indicators&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;view/window management guidelines&lt;/td&gt;
+      &lt;td&gt;keep layout manageable, coordination, navigation between windows&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;good uses of animation&lt;/td&gt;
+      &lt;td&gt;getting attention, tutorials, entertainment&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mistakes on web-based displays&lt;/td&gt;
+      &lt;td&gt;making text too small, having too much content, burying information too deep, confusing navigation, putting information in unexpected places, unclear links, bad tables, bad colors, bad forms, or missing features&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;color guidelines&lt;/td&gt;
+      &lt;td&gt;small number of colors, color for specific things, universal usability (colorblindness)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Thu, 20 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/20/week-10-day-2-ch-12-advancing-the-user-experience.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/20/week-10-day-2-ch-12-advancing-the-user-experience.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 12 Discussion Questions</title>
+        <description>&lt;p&gt;Effective display designs must provide all the necessary data in the proper sequence to carry out the task. Identify a recent personal user experience where it either was very clear or very unclear about what the sequence of steps was necessary to complete a task. What made that experience memorable?&lt;/p&gt;
+
+&lt;p&gt;This is a non-software interface, but I was trying to connect my laptop to a university classroom projector. There were multiple video cords in the vicinity and it wasn’t clear if I had plugged my laptop into the right display port. After that, there is a panel of buttons that do not clearly instruct how to display the alternate display. All the while, my teacher seemed to be having an anxiety attack over how to make the projector switch inputs. The UA IT team could make the steps outlined more clearly with simple labeling.&lt;/p&gt;
+
+&lt;p&gt;List a few reasons for using animation in display design.&lt;/p&gt;
+
+&lt;p&gt;Getting attention, explaining things, and making things unique or expressive.&lt;/p&gt;
+
+&lt;p&gt;List a few common mistakes of web-based display of information.&lt;/p&gt;
+
+&lt;p&gt;One mistake is not breaking up a large amount of information. For example in a form with fifteen fields it would be nice to see them grouped up by what’s related to prevent overload, but this is rarely the case. Also, important information is not distinguished from other information. Finally, some information is overly distracting or disrupts the flow of operation.&lt;/p&gt;
+
+&lt;p&gt;Color displays are attractive to users and can often improve task performance, but the danger of misuse is high. List five guidelines for using color and give an example of each.&lt;/p&gt;
+
+&lt;p&gt;Use color for specific purposes: Make warnings always orange for example. Avoid overuse of saturated colors: Don’t go to the extreme of every color because it’s distracting. Don’t use it in search: It is distracting when the user is scanning the page for elements, so only use one color for elements the user needs to scan through. Use color consistently: for example, if you’ve been using orange for warnings in your program, don’t switch to blue.&lt;/p&gt;
+
+&lt;p&gt;For the following three items, find the problems in each of the following error messages produced by a source code compiler. Briefly state your reasoning and suggest a better message.&lt;/p&gt;
+
+&lt;p&gt;SYNTAX ERROR&lt;/p&gt;
+
+&lt;p&gt;Syntax error at line 8: “foo = bar” Assignment of a variable outside of scope.&lt;/p&gt;
+
+&lt;p&gt;The error message should tell the user exactly what was wrong with the syntax&lt;/p&gt;
+
+&lt;p&gt;INCORRECTLY FORMED RHS OF EXPRESSION. BAILING OUT ON LINE 6.&lt;/p&gt;
+
+&lt;p&gt;Incorrect right hand side at line 6: “foo = int” you can’t assign a type to a variable.&lt;/p&gt;
+
+&lt;p&gt;The user needs to know why the right hand side was incorrectly  formed.&lt;/p&gt;
+
+&lt;p&gt;ILLEGAL OPERATION. PROCESS KILLED!!!&lt;/p&gt;
+
+&lt;p&gt;Illegal operation. Exiting operation.&lt;/p&gt;
+
+&lt;p&gt;My reasoning is that, there is no reason to alarm the user or make them feel like they did something wrong. They need to know which operation is illegal so they can correct the problem.&lt;/p&gt;
+
+&lt;p&gt;Describe some guidelines that can be used to avoid falling into the trap of implementing anthropomorphic characteristics into an interface.&lt;/p&gt;
+
+&lt;p&gt;Don’t name anything in an application after yourself or a celebrity or Jesus so that you don’t form a strange relationship with it.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/20/ch-12-discussion-questions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/20/ch-12-discussion-questions.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 10 - Day 1</title>
@@ -874,341 +1126,6 @@
         <pubDate>Mon, 03 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CS407-001/2016/10/03/ch-8-discussion-questions.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/03/ch-8-discussion-questions.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 6 - Day 2</title>
-        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;fCQfB7D_gYU&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jhip3&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Audio 0:00:51.868280&lt;/p&gt;
-
-&lt;h1 id=&quot;ch-7&quot;&gt;Ch 7&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Feelings that result from good interfaces
-    &lt;ul&gt;
-      &lt;li&gt;Ease in learning&lt;/li&gt;
-      &lt;li&gt;Sense of mastery&lt;/li&gt;
-      &lt;li&gt;enjoyment&lt;/li&gt;
-      &lt;li&gt;competency&lt;/li&gt;
-      &lt;li&gt;retention&lt;/li&gt;
-      &lt;li&gt;eager to show others&lt;/li&gt;
-      &lt;li&gt;desire to explore the interface&lt;/li&gt;
-      &lt;li&gt;Audio 0:04:16.445987&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How does this relate to eight golden rules?
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:06:08.520121&lt;/li&gt;
-      &lt;li&gt;Eight golden rules
-        &lt;ul&gt;
-          &lt;li&gt;strive for consistency&lt;/li&gt;
-          &lt;li&gt;universal usability&lt;/li&gt;
-          &lt;li&gt;informative feedback&lt;/li&gt;
-          &lt;li&gt;closure&lt;/li&gt;
-          &lt;li&gt;reduce errors&lt;/li&gt;
-          &lt;li&gt;easy reversal&lt;/li&gt;
-          &lt;li&gt;user in control&lt;/li&gt;
-          &lt;li&gt;reduce short term memory&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Shared
-        &lt;ul&gt;
-          &lt;li&gt;All of the feelings generated by good interface are things that map back to the eight golden rules&lt;/li&gt;
-          &lt;li&gt;Audio 0:08:18.173476&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;direct-manipulation&quot;&gt;Direct manipulation&lt;/h2&gt;
-
-&lt;h3 id=&quot;benefits&quot;&gt;Benefits&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:37.896001&lt;/li&gt;
-  &lt;li&gt;easy to learn
-    &lt;ul&gt;
-      &lt;li&gt;natural&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;proper feedback&lt;/li&gt;
-  &lt;li&gt;rapid use&lt;/li&gt;
-  &lt;li&gt;metaphor should prevent errors&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:41.234016&lt;/li&gt;
-  &lt;li&gt;Desktop
-    &lt;ul&gt;
-      &lt;li&gt;matches what you see on an actual desk&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Google Maps
-    &lt;ul&gt;
-      &lt;li&gt;touch the map and it moves like a globe&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;translational distance&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;problems&quot;&gt;Problems&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:47.581942&lt;/li&gt;
-  &lt;li&gt;overcomplicating&lt;/li&gt;
-  &lt;li&gt;implementation difficulties&lt;/li&gt;
-  &lt;li&gt;visual clutter&lt;/li&gt;
-  &lt;li&gt;small margin of error&lt;/li&gt;
-  &lt;li&gt;not as universally usable&lt;/li&gt;
-  &lt;li&gt;zooming and such might prevent you from seeing other features&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-examples&quot;&gt;More examples&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;video games&lt;/li&gt;
-  &lt;li&gt;CAD tools&lt;/li&gt;
-  &lt;li&gt;Kiosks&lt;/li&gt;
-  &lt;li&gt;Touch screens&lt;/li&gt;
-  &lt;li&gt;GPS in general&lt;/li&gt;
-  &lt;li&gt;Audio 0:21:09.614770&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;video-1&quot;&gt;Video 1&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1UtlOgkOGy4&quot;&gt;Desktop metaphor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:22:47.725187&lt;/li&gt;
-  &lt;li&gt;part of building interfaces is doing things that map to what people already do because it’s easier to learn
-    &lt;ul&gt;
-      &lt;li&gt;It’s a tradeoff&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;airline-company-discussion-question&quot;&gt;Airline Company Discussion Question&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;“An airline company is designing a new on-line reservation system. They want to add some direct-manipulation features. For example, they would like customers to click a map to specify the departure cities and the destinations, and to click on the calendar to indicate their schedules. From your point of view, list four benefits and four problems of the new idea compared with their old system, which required the customer to do the job by typing text.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Audio 0:27:49.156075&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;benefits&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;problems&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Encourage people to explore the places they might want to go&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;having too much information might prevent the users from seeing things like special offers and such&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;A user might know where they’re going on the map, but not know the name of the place they’re going&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;A user might not know where they’re going on the map, but know the name of the place they’re going.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Reduce the formatting you have to do in order to check the date and location input&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;You can show users prices at the same time that they pick out their location&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;d-and-3d-interfaces&quot;&gt;2D and 3D Interfaces&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:08.766829&lt;/li&gt;
-  &lt;li&gt;Considerations for which interface makes the most sense
-    &lt;ul&gt;
-      &lt;li&gt;What are you trying to represent?&lt;/li&gt;
-      &lt;li&gt;Time and money resources
-        &lt;ul&gt;
-          &lt;li&gt;3D takes more time&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;How much information the user wants to see&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;d-execution&quot;&gt;3D Execution&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The desktop is technically 3D
-    &lt;ul&gt;
-      &lt;li&gt;Things are behind each-other, etc.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:32:11.659850&lt;/li&gt;
-  &lt;li&gt;Don’t distract people with too much eye-candy&lt;/li&gt;
-  &lt;li&gt;Keep manipulation of objects straight-forward&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;teleoperation--telepresence&quot;&gt;Teleoperation / Telepresence&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Drones&lt;/li&gt;
-  &lt;li&gt;Medical field
-    &lt;ul&gt;
-      &lt;li&gt;Avatar doctor&lt;/li&gt;
-      &lt;li&gt;Audio 0:35:20.389707&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Business
-    &lt;ul&gt;
-      &lt;li&gt;Teleconference&lt;/li&gt;
-      &lt;li&gt;Skype&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;video-2&quot;&gt;Video 2&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:28.113523&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;augmented-reality&quot;&gt;Augmented Reality&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vb79-_hGLkc&quot;&gt;Robo doctor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Examples
-    &lt;ul&gt;
-      &lt;li&gt;pokemon go&lt;/li&gt;
-      &lt;li&gt;Google glass&lt;/li&gt;
-      &lt;li&gt;10 yard line in football&lt;/li&gt;
-      &lt;li&gt;Audio 0:46:39.190090&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;positive feelings from good interfaces&lt;/td&gt;
-      &lt;td&gt;ease in learning, sense of mastery, enjoyment, competency, retention, desire to show others, desire to explore features&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;direct manipulation principle 1&lt;/td&gt;
-      &lt;td&gt;continuous representations of the objects and actions of interest with meaningful visual metaphors&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;direct manipulation principle 2&lt;/td&gt;
-      &lt;td&gt;physical actions or presses of labeled buttons, instead of complex syntax&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;direct manipulation principle 3&lt;/td&gt;
-      &lt;td&gt;rapid, incremental, reversible actions whose effects on the objects of interest are visible immediately&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;translational distance&lt;/td&gt;
-      &lt;td&gt;a measure of how good the metaphor of a direct manipulation system is&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;problems of direct manipulation&lt;/td&gt;
-      &lt;td&gt;overcomplicating, implementation difficulty, clutter, not as universally usable&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3D best practices&lt;/td&gt;
-      &lt;td&gt;don’t distract users and keep manipulation of objects straight-forward&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;teleoperation&lt;/td&gt;
-      &lt;td&gt;controlling something remotely&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;teleoperation use cases&lt;/td&gt;
-      &lt;td&gt;drones, medical field, business conferences&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Thu, 22 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/22/week-6-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/22/week-6-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Discussion - Ch 7</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;Describe three principles of direct manipulation.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The first principle of direct manipulation is, “continuous representations of the objects and actions of interest with meaningful visual metaphors.” This means that while interacting with the system, there should always be visual feedback that coincides with what you are trying to accomplish with the interface. The second is, “physical actions or presses of labeled buttons, instead of complex syntax.” This means that instead of giving the user a language or another tool for communication with the system, the system should have an interface that reflects real-life controls, such as physical buttons or actions. The third is, “rapid, incremental, reversible actions whose effects on the objects of interest are visible immediately.” This means that changes should occur in real-time, but be undoable in order to give the user maximum control.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Give four benefits of direct manipulation. Also list four problems of direct manipulation.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;One benefit of direct manipulation is that it reflects the real world so users should, ideally, already know how to interact with it. Another benefit is that direct manipulation systems make you feel more in control because they respond faster. Furthermore, direct manipulation systems also try to take advantage of as many of your senses as possible so that you feel more connected to it. One more benefit is that user satisfaction increases because the user feels more in control of the outcome.&lt;/p&gt;
-
-&lt;p&gt;One problem of direct manipulation is that sometimes it leads to overcomplicating the system. For example, sometimes text is the most efficient interface to interact with. Also, direct manipulation systems generally consume all of the user’s focus so that they cannot use multiple programs at once. Furthermore, sometimes the visual representations used by the system are not intuitive, so users have to learn them.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Examining the success of video games can provide insight for interface designers. Explain what lessons can be learned by videogames for interface design, but also provide examples of areas where it is ineffective to do so.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Videogames have mastered the art of using 3D worlds as an interface. Therefore, it would be beneficial to look at videogames as an example of good 3D representations.
-  However, videogames are entertainment programs and not practical devices, so they are not as good models for how to make a practical system.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;An airline company is designing a new on-line reservation system. They want to add some direct-manipulation features. For example, they would like customers to click a map to specify the departure cities and the destinations, and to click on the calendar to indicate their schedules. From your point of view, list four benefits and four problems of the new idea compared with their old system, which required the customer to do the job by typing text.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Four advantages of the map and calendar is that 1. Many users might find it more intuitive to navigate the interface this way. 2. Some users might not know the name of the airport they need to go to, so they can see all airports in the region they want to travel to and then click it. 3. The calendar could help them precisely choose the date and time they would like to travel. 4. The calendar could help prevent them from mis-scheduling.&lt;/p&gt;
-
-&lt;p&gt;Four disadvantages are 1. It would in some cases be faster to select the correct airport from a list. 2. It would be faster in some case to manually type in the time and date you’d like to travel. 3. It might be harder to find the correct airport from a map. 4. People might choose the wrong time and date from a calendar.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;List a few guidelines for an effective 3D interface:&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;An effective 3D interface has instant feedback, logical representations.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;List an example of teleoperation or virtual reality. Consider what a future application (that does not presently exist) might do. Be creative!&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Thu, 22 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/09/22/discussion-ch-7.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/09/22/discussion-ch-7.html</guid>
         
         
       </item>
