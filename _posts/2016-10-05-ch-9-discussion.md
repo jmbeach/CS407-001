@@ -21,6 +21,8 @@ Speech production is successful when the users understand it and interact with i
 
 5. There exist applications of human language understanding technology. Name some examples.
 
+One example of natural language understanding technology is Nuance Software's Dragon NaturallySpeaking software which allows you to control your computer, take notes, and fill out forms using speech. Many people who struggle with typing or using computers (such as doctors) find that it is much more natural to use and saves them time.
+
 6. List several situations when command languages can be attractive for users.
 
 Similar to my previous responses, command languages are most attractive when using your hands is impossible or inconvenient. Also, it is effective when users are motor or vision impaired. It is also attractive when it functions naturally so that the user feels they are simply talking to a person.
