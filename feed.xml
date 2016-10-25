@@ -6,9 +6,301 @@
 </description>
     <link>http://jmbeach.github.io/CS407-001/</link>
     <atom:link href="http://jmbeach.github.io/CS407-001/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Oct 2016 15:35:05 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Oct 2016 15:35:05 -0500</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 11:17:35 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 11:17:35 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 11 - Day 1</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2ox3ne&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;XDBF7WRIGSE&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Class next Tuesday is for meeting with your group
+    &lt;ul&gt;
+      &lt;li&gt;Project part C due that day&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;timely-user-interfaces&quot;&gt;Timely user interfaces&lt;/h1&gt;
+
+&lt;h2 id=&quot;difference-between-quick-and-long-response&quot;&gt;Difference Between Quick and Long Response&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Long delays
+    &lt;ul&gt;
+      &lt;li&gt;Negative
+        &lt;ul&gt;
+          &lt;li&gt;users forget&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Positive
+        &lt;ul&gt;
+          &lt;li&gt;make less mistakes to avoid wait times&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Short delays
+    &lt;ul&gt;
+      &lt;li&gt;Negative
+        &lt;ul&gt;
+          &lt;li&gt;More error prone
+            &lt;ul&gt;
+              &lt;li&gt;Users might become rushed&lt;/li&gt;
+              &lt;li&gt;Perceived less error because of quick response time&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Positive
+        &lt;ul&gt;
+          &lt;li&gt;users can learn&lt;/li&gt;
+          &lt;li&gt;keep users’ attention&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;srt&quot;&gt;SRT&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:49.928513&lt;/li&gt;
+  &lt;li&gt;system response time - number of seconds between a user’s activity to the display of the results&lt;/li&gt;
+  &lt;li&gt;model&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-25-week-11-day-1-d3e96.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:13:48.149731&lt;/li&gt;
+  &lt;li&gt;You want to maximize the SRT time
+    &lt;ul&gt;
+      &lt;li&gt;This means moving the computer begins output line as far left as possible&lt;/li&gt;
+      &lt;li&gt;Means displaying spinning wheel or whatever to let the user know information is being processed&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rapid-task-performance-low-error-rate-high-satisfaction&quot;&gt;Rapid Task Performance, Low Error Rate, High Satisfaction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:27.172385&lt;/li&gt;
+  &lt;li&gt;What is needed for this
+    &lt;ul&gt;
+      &lt;li&gt;user knowledge&lt;/li&gt;
+      &lt;li&gt;ease of navigation&lt;/li&gt;
+      &lt;li&gt;solutions can be carried out without delays&lt;/li&gt;
+      &lt;li&gt;distractions eliminated&lt;/li&gt;
+      &lt;li&gt;anxiety low
+        &lt;ul&gt;
+          &lt;li&gt;Audio 0:19:12.712080&lt;/li&gt;
+          &lt;li&gt;Avoiding or handling errors&lt;/li&gt;
+          &lt;li&gt;user knowledge&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;accurate feedback&lt;/li&gt;
+      &lt;li&gt;avoid or handle errors&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:22:21.264087&lt;/li&gt;
+  &lt;li&gt;There are actually times you might want to slow down your interface
+    &lt;ul&gt;
+      &lt;li&gt;For novices especially&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;user-productivity-and-variability&quot;&gt;User Productivity and Variability&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:39.577520&lt;/li&gt;
+  &lt;li&gt;Repetitive tasks
+    &lt;ul&gt;
+      &lt;li&gt;Menial tasks
+        &lt;ul&gt;
+          &lt;li&gt;If the system response time is different every time, it will confuse users&lt;/li&gt;
+          &lt;li&gt;Short response will make them respond more quickly which could be good or bad&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Users adapt to the response time
+    &lt;ul&gt;
+      &lt;li&gt;If the response time changes, users will change their work style&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;People like predictability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;frustration-reduction&quot;&gt;Frustration Reduction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:42.154803&lt;/li&gt;
+  &lt;li&gt;SRT should match expectations
+    &lt;ul&gt;
+      &lt;li&gt;If I move the mouse, it should move&lt;/li&gt;
+      &lt;li&gt;If I’m doing something more complicated, it’s okay if it takes a long time&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reduce interruptions&lt;/li&gt;
+  &lt;li&gt;Make sure the interface doesn’t fail&lt;/li&gt;
+  &lt;li&gt;Show progress
+    &lt;ul&gt;
+      &lt;li&gt;Make sure it’s accurate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Improve training&lt;/li&gt;
+  &lt;li&gt;Increase capacity
+    &lt;ul&gt;
+      &lt;li&gt;Upload speed&lt;/li&gt;
+      &lt;li&gt;Response time&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;guidelines&quot;&gt;Guidelines&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:33.221472&lt;/li&gt;
+  &lt;li&gt;People prefer shorter response times&lt;/li&gt;
+  &lt;li&gt;SRT &amp;lt; 15 seconds&lt;/li&gt;
+  &lt;li&gt;Shorter response time = shorter think time
+    &lt;ul&gt;
+      &lt;li&gt;error rates&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SRT should be appropriate for the task
+    &lt;ul&gt;
+      &lt;li&gt;Typing, mouse, etc should be &amp;lt; 15 ms&lt;/li&gt;
+      &lt;li&gt;Complex tasks
+        &lt;ul&gt;
+          &lt;li&gt;2 - 4 seconds&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Very complex
+        &lt;ul&gt;
+          &lt;li&gt;&amp;lt; 15 seconds&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rapid startups
+    &lt;ul&gt;
+      &lt;li&gt;If it takes too long to load, people might go somewhere else&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;user-experience-with-data-latency&quot;&gt;User Experience With Data Latency&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:16.662149&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9u_qIVack64&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;short delay positives&lt;/td&gt;
+      &lt;td&gt;users learn better and their attention is kept better&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;long delays negative&lt;/td&gt;
+      &lt;td&gt;users forget what they’re doing&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;long delays positive&lt;/td&gt;
+      &lt;td&gt;users make less mistakes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;short delays negative&lt;/td&gt;
+      &lt;td&gt;users are more error prone&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;system response time (SRT)&lt;/td&gt;
+      &lt;td&gt;number of seconds between a user’s activity to the display of the results&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;characteristics needed for rapid task performance, low error rate, and high satisfaction&lt;/td&gt;
+      &lt;td&gt;user knowledge of the task, ease of navigation, solutions have low delay, user has low anxiety, give accurate feedback, avoid or handle errors&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;what can we do to reduce frustration?&lt;/td&gt;
+      &lt;td&gt;Match SRT with expectations, reduce interruptions, prevent errors, keep SRT &amp;lt; 5 seconds, show progress, feedback, improve training, increase capacity&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;response time guidelines&lt;/td&gt;
+      &lt;td&gt;people prefer shorter response times, SRT &amp;lt; 15 sec, SRT should be appropriate for task, rapid load&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 25 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/25/week-11-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/25/week-11-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch 13 Discussion</title>
+        <description>&lt;p&gt;A group decision system is being built over a network, which has inherent delays due to network lag. Suggest the longest acceptable amount of time the delay could last without affecting the user negatively. Provide an argument for the time you selected.&lt;/p&gt;
+
+&lt;p&gt;System confirming the user’s password when logging on.&lt;/p&gt;
+
+&lt;p&gt;I believe that from my own experience logging in to systems, thirty seconds is when I begin to become very frustrated.&lt;/p&gt;
+
+&lt;p&gt;Synchronous group editing of a document.&lt;/p&gt;
+
+&lt;p&gt;Editing of a document should be almost instantaneous. If there are many delays over half a second long, I believe users would become frustrated.&lt;/p&gt;
+
+&lt;p&gt;Asynchronous critiquing of other participants’ work.&lt;/p&gt;
+
+&lt;p&gt;Because the system is asynchronous, network lag doesn’t matter so much. Even if the network lag is very long, the users will still be able to critique their partner’s work in a timely manner.&lt;/p&gt;
+
+&lt;p&gt;Voting on serious issues.&lt;/p&gt;
+
+&lt;p&gt;For something the user perceives to be serious, the lag shouldn’t exceed fifteen seconds or else they might begin to become impatient or frustrated.&lt;/p&gt;
+
+&lt;p&gt;Discuss three human values that are necessary to be understood by interface designers in order to ensure a timely user experience.&lt;/p&gt;
+
+&lt;p&gt;People value feedback, familiarity, and speed.&lt;/p&gt;
+
+&lt;p&gt;Provide an argument explaining why delays should be kept short for everyday tasks of a user, using short-term and working memory as the basis for your argument.&lt;/p&gt;
+
+&lt;p&gt;Because short-term memory has a very short lifespan, delays must be kept low so that users don’t forget what they are doing.&lt;/p&gt;
+
+&lt;p&gt;State a few system response time (SRT) guidelines.&lt;/p&gt;
+
+&lt;p&gt;Users prefer shorter response times, longer response times (greater than fifteen seconds) are disruptive, Users’ usage profiles change as a function of response time, etc.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CS407-001/2016/10/24/ch-13-discussion.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/24/ch-13-discussion.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 10 - Day 2 (Ch 12 - Advancing the User Experience)</title>
@@ -903,12 +1195,13 @@
 &lt;p&gt;Speech production is successful when the users understand it and interact with it naturally such as when using the Subway and receiving instructional information over intercom or when taking a tour with a robot tour guide.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;There exist applications of human language understanding technology. Name some examples.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;List several situations when command languages can be attractive for users.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;There exist applications of human language understanding technology. Name some examples.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One example of natural language understanding technology is Nuance Software’s Dragon NaturallySpeaking software which allows you to control your computer, take notes, and fill out forms using speech. Many people who struggle with typing or using computers (such as doctors) find that it is much more natural to use and saves them time.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List several situations when command languages can be attractive for users.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Similar to my previous responses, command languages are most attractive when using your hands is impossible or inconvenient. Also, it is effective when users are motor or vision impaired. It is also attractive when it functions naturally so that the user feels they are simply talking to a person.&lt;/p&gt;
@@ -916,216 +1209,6 @@
         <pubDate>Wed, 05 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CS407-001/2016/10/05/ch-9-discussion.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/05/ch-9-discussion.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 8 - Day 1 (Chapter 8 - Fluid Navigation)</title>
-        <description>&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;E0Fh3LN1k1g&quot;});
-&lt;/script&gt;
-
-&lt;h2 id=&quot;websites&quot;&gt;Websites&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:25.679338&lt;/li&gt;
-  &lt;li&gt;Cool features don’t make your app easier to use&lt;/li&gt;
-  &lt;li&gt;When do you apply certain features
-    &lt;ul&gt;
-      &lt;li&gt;Simpler is sometimes better&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-when-filling-in-forms-and-using-menus-is-easier-than-direct-manipulation&quot;&gt;Examples when filling in forms and using menus is easier than direct-manipulation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:31.320854&lt;/li&gt;
-  &lt;li&gt;When you have a lot of specific kinds of data&lt;/li&gt;
-  &lt;li&gt;Searching is better with an input box&lt;/li&gt;
-  &lt;li&gt;When you need high precision&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-can-we-allow-users-to-select-things&quot;&gt;How can we allow users to select things&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:05.312498&lt;/li&gt;
-  &lt;li&gt;Binary menus&lt;/li&gt;
-  &lt;li&gt;Radio buttons&lt;/li&gt;
-  &lt;li&gt;Check boxes&lt;/li&gt;
-  &lt;li&gt;Trees&lt;/li&gt;
-  &lt;li&gt;Sliders
-    &lt;ul&gt;
-      &lt;li&gt;Range of input&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pull-down menus / combo-box&lt;/li&gt;
-  &lt;li&gt;palettes&lt;/li&gt;
-  &lt;li&gt;ribbons
-    &lt;ul&gt;
-      &lt;li&gt;Allows for context specific actions&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;shortcuts&lt;/li&gt;
-  &lt;li&gt;gestures
-    &lt;ul&gt;
-      &lt;li&gt;size of screen matters&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;considerations-for-smaller-screens&quot;&gt;Considerations for smaller screens&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:13.823219&lt;/li&gt;
-  &lt;li&gt;Data Entry
-    &lt;ul&gt;
-      &lt;li&gt;Don’t make things too small&lt;/li&gt;
-      &lt;li&gt;Easier to overload the user&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Font size&lt;/li&gt;
-  &lt;li&gt;Layout&lt;/li&gt;
-  &lt;li&gt;Interruptions
-    &lt;ul&gt;
-      &lt;li&gt;User can get a text or a call in the middle of working through a form&lt;/li&gt;
-      &lt;li&gt;Need to save state&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:23:28.918312
-&lt;a href=&quot;https://www.youtube.com/watch?v=0sU2Vv7twmc&quot;&gt;Apple Watch navigation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;webby-awards&quot;&gt;Webby Awards&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:48.651847&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://webbyawards.com/winners/2016/&quot;&gt;See website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Hilariously hard to navigate&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;audio-menus&quot;&gt;Audio Menus&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:51:29.693806&lt;/li&gt;
-  &lt;li&gt;You can’t have to many submenus&lt;/li&gt;
-  &lt;li&gt;It’s not visible
-    &lt;ul&gt;
-      &lt;li&gt;You don’t know if your option is even there&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;filling-out-forms&quot;&gt;Filling out forms&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:55:43.507105&lt;/li&gt;
-  &lt;li&gt;If you fill out a field incorrectly, it might highlight it
-    &lt;ul&gt;
-      &lt;li&gt;Does it happen immediately or after submit, etc&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;E-mail for closure&lt;/li&gt;
-  &lt;li&gt;Modal vs non-modal forms
-    &lt;ul&gt;
-      &lt;li&gt;modal won’t let you do anything until you’ve interacted with it.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;inputs for selecting&lt;/td&gt;
-      &lt;td&gt;binary menus, radio buttons, check boxes, trees, pull-down menus, palettes, ribbons, shortcuts, gestures&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;when filling in forms might be easier than direct-manipulation&lt;/td&gt;
-      &lt;td&gt;when there is a lot of data or when you need high precision&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;considerations for smaller screens&lt;/td&gt;
-      &lt;td&gt;data entry, font size, layout, interruptions&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/10/04/week-8-day-1-chapter-8-fluid-navigation.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/04/week-8-day-1-chapter-8-fluid-navigation.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ch 8 Discussion Questions</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;A telephone-based menu system is being designed for a magazine subscription service system. There are seven magazines available: National Geographic, Travel and Leisure, Entrepreneur, Time, Golf, US News and World Report, and Fortune. Describe three reasonable orderings of the voice menus and justify each.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;One reasonable ordering would be to order them alphabetically: Entrepreneur, Fortune, Golf, Leisure, National Geographic, Time, Travel and Leisure, and US News and World Report. Alphabetic ordering is preferable because the user is aware of it and can predict how long it will take to get to their desired magazine. Another reasonable ordering would be to order the magazines by popularity. This way, the user is more likely to hear the magazine they like first. Another reasonable ordering would be to order the listings by price. Therefore, special or lower prices are listed first to get the caller to be more likely to make a purchase.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Provide three examples of an application where menu selection and form fill-in are more appropriate than a direct-manipulation strategy.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Form fill in is always more appropriate when filling in personal information such as name or social security because of the sensitivity and the lack of an analogy that mimics the input. Also, when choosing information from a small organized list, it is always easier to select that information from a menu. Furthermore, it is more appropriate when screen real-estate is small.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Design a touch screen music jukebox, which allows the user to select from a menu of the five most popular songs of the week. Draw a sketch of this interface for each of the following menu types: Binary Menu, Multiple-Item menu, Check boxes, Pull-down Menus. Argue which design serves the user best.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;(See attached)&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You are in charge of designing a menu tree for navigating 1,250 books in a digital library. Present an argument of whether the menu should have larger depth (number of levels) or breadth (number of items per level).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The tree should have larger breadth so that the list is broken up as much as possible. For example, the books should be split up by genre in the first level, then another sub category in the second to make it much easier to sort through the lowest level.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Frequent menu users can become annoyed if they must make several menu selections to complete a simple task. Suggest two ways you can refine the menu approach to accommodate expert or frequent users.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;One way to refine the menu approach is to provide hotkeys for frequently accessed menu items. Another way would be to allow advanced users to customize a quick access bar to allow them to quickly access a more frequently used item.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;When users are navigating through a menu structure, they may become disoriented. The authors suggest techniques to help alleviate this disorientation such as indicating the current position in the menu. Draw a sketch of how you can show users their position for an on-line car showroom, assuming the user has browsed with the following path:&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Main Menu -&amp;gt; Mid-size Cars -&amp;gt; Honda -&amp;gt; Accord&lt;/p&gt;
-
-&lt;p&gt;(See attached)&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;What are some design considerations for fluid navigation of small-screen displays, e.g. Smartphone or even smart watch screens?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;There is less screen space to show the amount you have navigated so it is better to give the user a gestural navigation approach to let them swipe in and out of levels.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Critique the design of the dialog box below in the text. This dialog box is used to alert clinicians who try to prescribe the drug Warfarin, because it increases the risk of bleeding in patients already on Aspirin.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;One problem I have with the buttons is that the buttons do not easily describe what they do. I think the buttons should say “Keep Only Asprin” or “Keep Only Warfarin” to make it as obvious as possible what you are doing.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CS407-001/2016/10/03/ch-8-discussion-questions.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CS407-001/2016/10/03/ch-8-discussion-questions.html</guid>
         
         
       </item>

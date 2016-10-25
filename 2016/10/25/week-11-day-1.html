@@ -6,13 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Ch 9 - Discussion</title>
-  <meta name="description" content="  Consider voice-activated digital assistants such as Siri, Cortana or Google Talk. Identify a situation or scenario where you chose to use this personal ass...">
+  <title>Week 11 - Day 1</title>
+  <meta name="description" content="  Quizlet">
 
   <link rel="stylesheet" href="/CS407-001/bower_components/icono/dist/icono.min.css">
   <link rel="stylesheet" href="/CS407-001/bower_components/jquery-ui/themes/base/all.css">
   <link rel="stylesheet" href="/CS407-001/bower_components/toastr/toastr.min.css">
-  <link rel="canonical" href="http://jmbeach.github.io/CS407-001/2016/10/05/ch-9-discussion.html">
+  <link rel="canonical" href="http://jmbeach.github.io/CS407-001/2016/10/25/week-11-day-1.html">
   <link rel="alternate" type="application/rss+xml" title="CS407-001 UA Fall 2016" href="http://jmbeach.github.io/CS407-001/feed.xml">
   <link rel="stylesheet" href="/CS407-001/css/main.css">
 	<script type="text/javascript" src="/CS407-001/bower_components/jquery/dist/jquery.min.js"></script>
@@ -83,46 +83,254 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Ch 9 - Discussion</h1>
-    <p class="post-meta"><time datetime="2016-10-05T00:00:00-05:00" itemprop="datePublished">Oct 5, 2016</time></p>
+    <h1 class="post-title" itemprop="name headline">Week 11 - Day 1</h1>
+    <p class="post-meta"><time datetime="2016-10-25T00:00:00-05:00" itemprop="datePublished">Oct 25, 2016</time></p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <ol>
-  <li>Consider voice-activated digital assistants such as Siri, Cortana or Google Talk. Identify a situation or scenario where you chose to use this personal assistant, and identify a scenario where you chose to avoid it.</li>
-</ol>
+    <ul>
+  <li><a href="https://quizlet.com/_2ox3ne">Quizlet</a></li>
+</ul>
 
-<p>I would find Siri, Cortana, and Google Talk useful when my hands are tied or when the alternative input is not effective (like touch screen typing). However, I would not want to use these tools when I am in a noisy area or when I have a keyboard and mouse in front of me.</p>
+<div style="position:fixed;bottom:1em;right:1em; background:black;padding:.5em">
+	<h2 style="margin:0;color:white">Navigate using audio</h2>
+	<div id="player"></div>
+</div>
 
-<ol>
-  <li>As a follow-on to the previous question, produce a thoughtful argument about what role spoken interaction should have in user interfaces. Be sure to list at least three benefits and limitations of spoken interaction.</li>
-</ol>
+<script>
+  new AudioNavigator({videoId:"XDBF7WRIGSE"});
+</script>
 
-<p>Spoken interaction is effective when the user has visual or motor impairments because they can interact with their device without looking at it or touching it. It is also useful for people who need to use their hands to drive a car or have their hands full. Furthermore, it is useful when the user is fatigued and wants to use an input method that is more natural and takes less thought. However, spoken interaction is hard to use in a noisy environment. It can also lead to anger when it misunderstands the user. Furthermore, it can be slower than typed input.</p>
+<h1 id="announcements">Announcements</h1>
 
-<ol>
-  <li>Some designers suggest that speech recognition should be used in a telephone menu system. This would allow users to interact with the system by speaking instead of pressing buttons on the dial pad. Give two arguments for and two arguments against the proposal.</li>
-</ol>
+<ul>
+  <li>Class next Tuesday is for meeting with your group
+    <ul>
+      <li>Project part C due that day</li>
+    </ul>
+  </li>
+</ul>
 
-<p>A speech recognition menu would allow users to not have to type complicated information. Also it would allow them to input information without having to look at their phone and potentially miss spoken information. However, if the speech recognition software fails to accurately interpret speech then the user could become  distressed and reduce the quality of the call or accidentally give the system incorrect information.</p>
+<h1 id="timely-user-interfaces">Timely user interfaces</h1>
 
-<ol>
-  <li>Define when “speech production” is successful and discuss methods for its implementation. Cite examples.</li>
-</ol>
+<h2 id="difference-between-quick-and-long-response">Difference Between Quick and Long Response</h2>
 
-<p>Speech production is successful when the users understand it and interact with it naturally such as when using the Subway and receiving instructional information over intercom or when taking a tour with a robot tour guide.</p>
+<ul>
+  <li>Long delays
+    <ul>
+      <li>Negative
+        <ul>
+          <li>users forget</li>
+        </ul>
+      </li>
+      <li>Positive
+        <ul>
+          <li>make less mistakes to avoid wait times</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Short delays
+    <ul>
+      <li>Negative
+        <ul>
+          <li>More error prone
+            <ul>
+              <li>Users might become rushed</li>
+              <li>Perceived less error because of quick response time</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Positive
+        <ul>
+          <li>users can learn</li>
+          <li>keep users’ attention</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<ol>
-  <li>There exist applications of human language understanding technology. Name some examples.</li>
-</ol>
+<h2 id="srt">SRT</h2>
 
-<p>One example of natural language understanding technology is Nuance Software’s Dragon NaturallySpeaking software which allows you to control your computer, take notes, and fill out forms using speech. Many people who struggle with typing or using computers (such as doctors) find that it is much more natural to use and saves them time.</p>
+<ul>
+  <li>Audio 0:07:49.928513</li>
+  <li>system response time - number of seconds between a user’s activity to the display of the results</li>
+  <li>model</li>
+  <li><img src="../../../assets/2016-10-25-week-11-day-1-d3e96.png" alt="" /></li>
+  <li>Audio 0:13:48.149731</li>
+  <li>You want to maximize the SRT time
+    <ul>
+      <li>This means moving the computer begins output line as far left as possible</li>
+      <li>Means displaying spinning wheel or whatever to let the user know information is being processed</li>
+    </ul>
+  </li>
+</ul>
 
-<ol>
-  <li>List several situations when command languages can be attractive for users.</li>
-</ol>
+<h2 id="rapid-task-performance-low-error-rate-high-satisfaction">Rapid Task Performance, Low Error Rate, High Satisfaction</h2>
 
-<p>Similar to my previous responses, command languages are most attractive when using your hands is impossible or inconvenient. Also, it is effective when users are motor or vision impaired. It is also attractive when it functions naturally so that the user feels they are simply talking to a person.</p>
+<ul>
+  <li>Audio 0:16:27.172385</li>
+  <li>What is needed for this
+    <ul>
+      <li>user knowledge</li>
+      <li>ease of navigation</li>
+      <li>solutions can be carried out without delays</li>
+      <li>distractions eliminated</li>
+      <li>anxiety low
+        <ul>
+          <li>Audio 0:19:12.712080</li>
+          <li>Avoiding or handling errors</li>
+          <li>user knowledge</li>
+        </ul>
+      </li>
+      <li>accurate feedback</li>
+      <li>avoid or handle errors</li>
+    </ul>
+  </li>
+  <li>Audio 0:22:21.264087</li>
+  <li>There are actually times you might want to slow down your interface
+    <ul>
+      <li>For novices especially</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="user-productivity-and-variability">User Productivity and Variability</h2>
+
+<ul>
+  <li>Audio 0:24:39.577520</li>
+  <li>Repetitive tasks
+    <ul>
+      <li>Menial tasks
+        <ul>
+          <li>If the system response time is different every time, it will confuse users</li>
+          <li>Short response will make them respond more quickly which could be good or bad</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Users adapt to the response time
+    <ul>
+      <li>If the response time changes, users will change their work style</li>
+    </ul>
+  </li>
+  <li>People like predictability</li>
+</ul>
+
+<h2 id="frustration-reduction">Frustration Reduction</h2>
+
+<ul>
+  <li>Audio 0:27:42.154803</li>
+  <li>SRT should match expectations
+    <ul>
+      <li>If I move the mouse, it should move</li>
+      <li>If I’m doing something more complicated, it’s okay if it takes a long time</li>
+    </ul>
+  </li>
+  <li>Reduce interruptions</li>
+  <li>Make sure the interface doesn’t fail</li>
+  <li>Show progress
+    <ul>
+      <li>Make sure it’s accurate</li>
+    </ul>
+  </li>
+  <li>Improve training</li>
+  <li>Increase capacity
+    <ul>
+      <li>Upload speed</li>
+      <li>Response time</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="guidelines">Guidelines</h2>
+
+<ul>
+  <li>Audio 0:35:33.221472</li>
+  <li>People prefer shorter response times</li>
+  <li>SRT &lt; 15 seconds</li>
+  <li>Shorter response time = shorter think time
+    <ul>
+      <li>error rates</li>
+    </ul>
+  </li>
+  <li>SRT should be appropriate for the task
+    <ul>
+      <li>Typing, mouse, etc should be &lt; 15 ms</li>
+      <li>Complex tasks
+        <ul>
+          <li>2 - 4 seconds</li>
+        </ul>
+      </li>
+      <li>Very complex
+        <ul>
+          <li>&lt; 15 seconds</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Rapid startups
+    <ul>
+      <li>If it takes too long to load, people might go somewhere else</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="user-experience-with-data-latency">User Experience With Data Latency</h2>
+
+<ul>
+  <li>Audio 0:40:16.662149</li>
+  <li>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9u_qIVack64" frameborder="0" allowfullscreen=""></iframe>
+  </li>
+</ul>
+
+<h1 id="vocab">Vocab</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Term</th>
+      <th>Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>short delay positives</td>
+      <td>users learn better and their attention is kept better</td>
+    </tr>
+    <tr>
+      <td>long delays negative</td>
+      <td>users forget what they’re doing</td>
+    </tr>
+    <tr>
+      <td>long delays positive</td>
+      <td>users make less mistakes</td>
+    </tr>
+    <tr>
+      <td>short delays negative</td>
+      <td>users are more error prone</td>
+    </tr>
+    <tr>
+      <td>system response time (SRT)</td>
+      <td>number of seconds between a user’s activity to the display of the results</td>
+    </tr>
+    <tr>
+      <td>characteristics needed for rapid task performance, low error rate, and high satisfaction</td>
+      <td>user knowledge of the task, ease of navigation, solutions have low delay, user has low anxiety, give accurate feedback, avoid or handle errors</td>
+    </tr>
+    <tr>
+      <td>what can we do to reduce frustration?</td>
+      <td>Match SRT with expectations, reduce interruptions, prevent errors, keep SRT &lt; 5 seconds, show progress, feedback, improve training, increase capacity</td>
+    </tr>
+    <tr>
+      <td>response time guidelines</td>
+      <td>people prefer shorter response times, SRT &lt; 15 sec, SRT should be appropriate for task, rapid load</td>
+    </tr>
+  </tbody>
+</table>
 
   </div>
 
