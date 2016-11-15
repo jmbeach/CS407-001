@@ -1,6 +1,60 @@
 [
   
     {
+      "title"    : "HW2",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/11/10/hw2.html",
+      "date"     : "2016-11-10 00:00:00 -0600",
+      "content"  : ""
+    } ,
+  
+    {
+      "title"    : "Chapter 16 - Discussion",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/11/10/chapter-16-discussion.html",
+      "date"     : "2016-11-10 00:00:00 -0600",
+      "content"  : "Produce a definition of data visualization. Explain how it caters to the perceptual abilities of humans.Data visualization aims to take large or complex data sets and highlight their significance visually using tools such as graphs, charts, or any sort of size comparison.Describe a taxonomy of interactive dynamics that combine the analysis task with the practical operations that users need in their visualization tools of interactive dynamics that results in task types for data visualization (Heer and Shneiderman, 2012).Tableau uses customized charts for analysis to help companies make sense of their data.Describe a summary of data types and example visualization techniques associated with each.1D Linear organizes data on a single metric. For example, sorting a list of data items alphabetically. 2D Map displays data across two metrics: for example, food stamp use, by county in the United States. 3D World visualizes a 3D representation of data. For example, CAD software. Multidimensional data is data that is plotted across two or more dimensions: a bar chart for example. Temporal data is data over time. A line graph of any measure over time is temporal. Tree data is hierarchical. The display of a family tree on Ancestry.com would be tree data. Network data is data that is connected spacialy, but not necessarily hierarchically. A network map is an example of this.Describe three challenges data visualization researchers face when trying to build an interface. Suggest solutions to conquer these problems."
+    } ,
+  
+    {
+      "title"    : "Week 13 - Day 1",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/11/08/week-13-day-1.html",
+      "date"     : "2016-11-08 00:00:00 -0600",
+      "content"  : "Chapter 15Advanced Multimedia Searches  Google reverse image search  Google goggles  Sound houndFive Stage Searching Framework  Formulation          allow users to enter queries      making sure you don’t overwhelm novice users      Vocab            Term      Definition                  stage 1 of five stage searching framework      formulation: focuses on input method, types of users, and source of data              stage 2 of five stage searching framework      initiation of action              stage 3 of five stage searching framework      review of results: summary, sorting, layout, etc.              stage 4 of five stage searching framework      refinement: making changes              stage 5 of five stage searching framework      use: deploying"
+    } ,
+  
+    {
+      "title"    : "Chapter 15 - Discussion",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/11/08/chapter-15-discussion.html",
+      "date"     : "2016-11-08 00:00:00 -0600",
+      "content"  : "1) Describe the challenges first-time users face when using an information-exploration system. Propose how these challenges can be overcome.Sometimes the method for querying data distracts the user from their task or overwhelms them. Complicated query syntax, therefore, should be replaced by simple keyword search.2) Argue whether textual search interfaces should keep details of how the search is performed hidden from the users. Decide which approach will allow the user to get more accurate results.I believe that it is okay to show details to advanced users in an advanced interface. However, you should not show it to all users because novice users would get overwhelmed.3) Describe a framework, of 3 to 7 phases, that will help to coordinate design practices to satisfy the needs of first-time, intermittent, and frequent users who are accessing a variety of textual and multimedia libraries.The five-phase framework to help coordinate design practices and satisfy the needs of many users is as follows: 1. Formulation, 2. Initiation of action, 3. Review of results, 4. Refinement, 5. Use. In step one, designers prepare constraints for the system, such as what phrases it can handle. In step two, designers implement specific actions of the system such as searching. In step three, the interface is reviewed and scrutinized. In step four, changes are made from suggestions made in step four. In step five, the system is being used.4) Explain the strategy commonly used for searching multimedia archives. List the limitations associated with this strategy.Usually such systems depend on the multimedia files containing metadata, such as descriptions or tags. The query system then just searches the tags and metadata based on user input. This has limitations however, because it does not allow for searching the actual document. Therefore a better video or picture file might not appear in a search because of a lack of metadata."
+    } ,
+  
+    {
+      "title"    : "Week 12 - Day 2",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/11/03/week-12-day-2.html",
+      "date"     : "2016-11-03 00:00:00 -0500",
+      "content"  : "Ch - 14 (Documentation)      What’s good or bad?        Bad          User help in wrong language      Paid documentation      What might change the way the user might seek help  Audio 0:04:53.850701  help w/ libraries -&gt; might just want method descriptions          popup in IDE                  But not clippy                    Search engine        common task          Easy explanation                  documentation you provide          Online                          Company websites              Blog/articles                                  threads/categories                  pictures/videos                  be careful about ads                                            Discussion groups                                  moderators                  voting systems                  recognition                  scary                  Audio 0:19:37.422261"
+    } ,
+  
+    {
+      "title"    : "Ch 14 Discussion",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/CS407-001/2016/11/02/ch-14-discussion.html",
+      "date"     : "2016-11-02 00:00:00 -0500",
+      "content"  : "Your documentation team has developed an online help support for instant messaging client. You are hiring a usability testing firm to evaluate the online help and recommend improvements. Prepare a contract that specifies how you want the usability test to be performed and what reports you would like to receive. Your schedule gives them one week to prepare the study, one week to run it, plus one week to write up the final report. In your contract, specify the details of your requirements, including such information as the number of subjects required, test plans and the types of reports.Contract:We need tests on the following metrics: perceived speed of the system, rate of errors of the system, and time to learn of the system.When testing the perceived speed, we need to know a quantitative measure that the user believes each action takes after performing them. We’d like to see this measure for all tasks. For testing rate of errors, we need all different type of errors reported together and separate. Also, we need the time to learn each task concretely.Describe the difference between reading on paper and reading on a computer display. Be sure to list at least three disadvantages for each method.Defend the use of on-line communities for user assistance. Ensure your argument is well-rounded by pointing out both the weaknesses and strengths.Describe the role user documentation and online help play in the lifecycle of a piece of software. Decide when these help materials should be created in the software design cycle.State some guidelines for writing for the web, particularly in the context of online help."
+    } ,
+  
+    {
       "title"    : "Week 11 - Day 1",
       "category" : "",
       "tags"     : "",
